@@ -1,0 +1,11 @@
+{
+    "question_id": 10,
+    "model": "deepseek/deepseek-r1-distill-qwen-32b",
+    "timestamp": "2026-02-03 02:08:26",
+    "question": "Öğrencilerime Türkiye'deki 'Yüzen Dağlar' tarihini anlatmak istiyorum. Bu konu sence çocukların ilgisini çeker mi, yoksa çok mu detay kaçar?\"",
+    "result": {
+        "success": false,
+        "error": "Zaman aşımı (Timeout)",
+        "duration_seconds": 300.0071
+    }
+}

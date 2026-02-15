@@ -1,0 +1,17 @@
+{
+    "question_id": 5,
+    "model": "google/functiongemma-270m",
+    "timestamp": "2026-02-03 01:25:21",
+    "question": "Atatürk cumhuriyeti ilan ettikten sonra İstanbul’u neden başkent yaptı?",
+    "result": {
+        "success": true,
+        "answer": "Satış: Atatürk'üncumhuriyetinin ilan etmesine katkıda bulunmak amacıyla,İstanbul’u Başkent yaptı.",
+        "duration_seconds": 0.3008,
+        "token_usage": {
+            "prompt_tokens": 38,
+            "completion_tokens": 27,
+            "total_tokens": 65
+        },
+        "model_response_id": "chatcmpl-yphabapsjkr70a41w0vy"
+    }
+}

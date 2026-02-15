@@ -1,0 +1,17 @@
+{
+    "question_id": 1,
+    "model": "mistralai/ministral-3-14b-reasoning",
+    "timestamp": "2026-02-03 03:03:10",
+    "question": "Türkçede 'ğ' harfiyle başlayan en kısa kelime hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "Türkçe'de 'ğ' harfiyle başlayan en kısa kelime **\"gün\"** olabilir. Fakat, bu kelimenin baş harfi 'g' olarak yazılır ve telaffuz edilir, çünkü Türkçede \"g\" ve \"ğ\" fonetik olarak farklıdır.\n\nEğer gerçekten 'ğ' ile başlayan bir kelime arıyorsanız, **\"ğarip\"** veya **\"ğazoz\"** gibi kelimeler en short olabilir. Ancak bu kelimeler de iki hecelidir.\n\n**Doğru cevap:** Türkçe'de 'ğ' harfiyle başlayan doğal kelimeler çok azdır ve genellikle \"g\" ile karıştırılır. Eğer bir kelimenin tamamen 'ğ' harfiyle başlayıp bitmesi gerekirse, **\"ağa\"** (saygı belirtisi) veya **\"ağabey\"** gibi kelimeler geçerli olabilir.\n\n**İpucu:** Türkçe'de \"g\" ve \"ğ\" aynı yazılmaz; \"g\" sesi sert, \"ğ\" ise yumuşaktır. Örneğin:\n- **G**arip (sert g)\n- **Ğ**azoz (yumuşak ğ)\n\nEğer bir kelimenin tamamen 'ğ' ile başlaması ve bitmesi gerekiyorsa, **\"ağa\"** veya **\"ağabey\"** gibi kelimeler en short seçeneklerdir. Aksi takdirde, \"gün\" gibi kelimeler \"g\" harfiyle başlar.\n\n**Sonuç:** Türkçe'de 'ğ' ile başlayan doğal kelime yoktur, ancak bazı sözcüklerde (özellikle yabancı kökenli veya ismi-fail kelimelerde) görülebilir.",
+        "duration_seconds": 93.2913,
+        "token_usage": {
+            "prompt_tokens": 33,
+            "completion_tokens": 385,
+            "total_tokens": 418
+        },
+        "model_response_id": "chatcmpl-djlsycqxbdq7i1ku36kkg7"
+    }
+}

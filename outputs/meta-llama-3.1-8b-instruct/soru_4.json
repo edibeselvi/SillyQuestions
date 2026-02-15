@@ -1,0 +1,17 @@
+{
+    "question_id": 4,
+    "model": "meta-llama-3.1-8b-instruct",
+    "timestamp": "2026-02-03 03:56:48",
+    "question": "Ben Türkiye’de doğdum. İki yaşından beri Almanya’da yaşıyorum. Burada yaşadığım için benim ana dilim aslında Almancadır. Türkçe sadece bir kurstur, değil mi?",
+    "result": {
+        "success": true,
+        "answer": "Tamamen doğru söylemediniz. Dil öğrenmenin ve kullanmanın yanı sıra dillerin içsel parçası olan dilbilgisi ve gramer gibi faktörlerin de rol oynadığı unutulmamalıdır. \n\nDil, kişinin doğduğu yerin kültürü ile büyük ölçüde ilişkili olmasına rağmen, tek bir dil türü yoktur. Bir bireyin hangi dilin ana dili olduğunu belirlemek için birçok faktör göz önünde bulundurulmalıdır.\n\nBu faktörlere bakıldığında, iki yaşından beri Almanya'da yaşayan birinin ana dili olarak Almancayı söylemek biraz yanlış olacaktır. Dil öğrenme ve kullanma sürecinin yanı sıra bir bireyin dilini belirleyen diğer faktörler de önemlidir.\n\nBir kişiye hangi dilin daha iyi olduğu veya hangi dilin daha doğru olduğu sorulduğunda, bu sorunun cevabı kişiden kişiye farklılık gösterecektir.",
+        "duration_seconds": 21.1419,
+        "token_usage": {
+            "prompt_tokens": 85,
+            "completion_tokens": 196,
+            "total_tokens": 281
+        },
+        "model_response_id": "chatcmpl-4fga8mnjhzq6dik5lvpds5"
+    }
+}

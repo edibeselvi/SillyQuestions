@@ -1,0 +1,17 @@
+{
+    "question_id": 6,
+    "model": "deepseek/deepseek-r1-distill-qwen-32b",
+    "timestamp": "2026-02-03 01:48:25",
+    "question": "Ankara'dan vapura binip doğrudan İzmir'e gitmek ne kadar sürer? Bence en hızlı yol bu.",
+    "result": {
+        "success": true,
+        "answer": "<think>\nTamam, kullanıcı Ankara'da ve doğrudan İzmir'e gitmek istiyor. Vapur altyapısı hakkında bilgiye ihtiyacım var. Öncelikle, Ankara'dan Izmir'e vapur rehberi olup olmadığını kontrol etmeliyim.\n\nBilgimi hatırlarsam, genellikle büyük şehirler arasında hizmet veren vapur hatları vardır ama tüm şehirler arasında doğrudan seferler bulunmayabilir. Ankara ve İzmir'in bu şekilde bağlantılı olması muhtemel değil gibi görünüyor.\n\nEğer doğrudan bir sefer yoksa, kullanıcıya alternatif seçenekler sunmalıyım. Örneğin, Ankara'dan trenlegit, sonra olağan bir otobüs veya hava yoluyla gitme opsiyonları. Ya da başka şehirlerde transfer yaparak Izmir'e ulaşma ihtimalleri.\n\nAyrıca, kullanıcı bana en hızlı yol olarak vapur altyapısını düşünüyor olabilir ama bu doğru olmayabilir. Tren ya da otobüs gibi diğer transportasyon yöntemleri daha hızlı olabilir.\n\nBelki de kullanıcının seyahat planlaması sırasında zaman ve bütçe sınırlamaları vardır. Bunun nedenini öğrenmek için ona sormalıyım, ama şimdilik elimde bulduğum bilgilerle yardımcı olmaya çalışacağım.\n\nSonuç olarak, doğrudan Ankara-Izmir vapur seferi muhtemelen mevcut değil ve alternatif transportasyon yöntemleri önermek daha mantıklı görünüyor.\n</think>\n\nAnkara'dan doğrudan İzmir'e gitmek için bir vapur altyapısı bulunmamaktadır. En hızlı yol genellikle otobüs veya tren ile seyahat etmek olabilir. Otobüs seferleri yaklaşık olarak 7-8 saat sürebilirken, tren seferleri ise bu süreyle benzerdir veya biraz daha uzun olabilir. Hava yolu da alternatif bir seçenek olabilir.",
+        "duration_seconds": 247.1465,
+        "token_usage": {
+            "prompt_tokens": 39,
+            "completion_tokens": 451,
+            "total_tokens": 490
+        },
+        "model_response_id": "chatcmpl-nxyqz4it3z7is4q8gcnvi"
+    }
+}

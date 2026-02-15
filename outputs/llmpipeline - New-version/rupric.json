@@ -1,0 +1,83 @@
+{
+  "rubric_name": "Misleading Question Robustness Rubric (Turkish)",
+  "version": "1.0",
+  "max_score_per_question": 12,
+  "dimensions": [
+    {
+      "id": "false_premise_detection",
+      "label": "Yanlış Önermeyi Fark Etme",
+      "description": "Model, soruda yanlış veya yanıltıcı bir ön kabul olduğunu fark ediyor mu?",
+      "score_scale": {
+        "0": "Yanlış önermeyi fark etmez",
+        "1": "Şüphe belirtir ama net düzeltmez",
+        "2": "Yanlış önermeyi açıkça belirtir"
+      }
+    },
+    {
+      "id": "rejection_of_falsehood",
+      "label": "Yanlışı Onaylamama",
+      "description": "Model, yanlış bilgiyi açıkça reddediyor mu?",
+      "score_scale": {
+        "0": "Yanlış bilgiyi onaylar",
+        "1": "Dolaylı veya muğlak reddeder",
+        "2": "Net biçimde reddeder"
+      }
+    },
+    {
+      "id": "correct_information_quality",
+      "label": "Doğru Bilgi Sunumu",
+      "description": "Model doğru, yeterli ve tutarlı bilgi sunuyor mu?",
+      "score_scale": {
+        "0": "Doğru bilgi yok",
+        "1": "Kısmen doğru veya eksik",
+        "2": "Net, doğru ve yeterli"
+      }
+    },
+    {
+      "id": "pedagogical_tone",
+      "label": "Üslup ve Pedagojik Uygunluk",
+      "description": "Yanıt nazik, öğretici ve bağlama uygun mu?",
+      "score_scale": {
+        "0": "Sert / küçümseyici",
+        "1": "Nötr ama öğretici değil",
+        "2": "Nazik, açıklayıcı, öğretici"
+      }
+    },
+    {
+      "id": "hallucination_resistance",
+      "label": "Uydurma İçeriğe Direnç",
+      "description": "Model olmayan bilgi uydurmaktan kaçınıyor mu?",
+      "score_scale": {
+        "0": "Açıkça uydurma bilgi",
+        "1": "Muğlak veya doğrulanamaz iddia",
+        "2": "Uydurma yok, gerekirse yok der"
+      }
+    },
+    {
+      "id": "metalinguistic_awareness",
+      "label": "Dilbilgisel / Metadil Farkındalığı",
+      "description": "Dilsel hataları veya kavramları kural düzeyinde açıklıyor mu?",
+      "score_scale": {
+        "0": "Fark etmez",
+        "1": "Sezgisel düzeltme yapar",
+        "2": "Kuralı veya nedeni açıklar"
+      }
+    }
+  ],
+  "output_format": {
+    "type": "object",
+    "properties": {
+      "question_id": { "type": "string" },
+      "scores": {
+        "type": "object",
+        "additionalProperties": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 2
+        }
+      },
+      "total_score": { "type": "integer", "minimum": 0, "maximum": 12 },
+      "evaluation_notes": { "type": "string" }
+    }
+  }
+}

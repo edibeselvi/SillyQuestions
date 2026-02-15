@@ -1,0 +1,17 @@
+{
+    "question_id": 3,
+    "model": "deepseek/deepseek-r1-0528-qwen3-8b",
+    "timestamp": "2026-02-03 11:54:12",
+    "question": "Türkiye'de kışın tamamen kuruyan ama yazın suyla dolup taşan gölümüz hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "<think>\nHmm, kullanıcı \"Kışın tamamen kuruyan ama yazın suyla dolup taşan Türkiye'deki göl\" diye sormuş. Bu oldukça spesifik bir soru, muhtemelen doğa merakı olan veya Türkiye'nin jeolojik özelliklerini bilen biri.\n\nÖnce \"kuruyan göl\" kavramını düşünelim. Yazın su taşan ama kışın kuruduğu için denge durumunda kuru kalmış olmalı. Bu tür durumu genellikle düzensiz yağış veya buharlaşma ile açıklayan iklimlerde gözlenir.\n\nTürkiye'de çok sayıda göl var, örneğin Tuz Gölü yazın kurudur ama tam tersi bir göl bulmak zor. Akdeniz iklimindeki bölgeler genellikle nemli ve yağışlıdır. Belki de buharlaşma ile kışın daha az yağış alan ve bu yüzden göller kuruyan yerler var.\n\nAnadolu'ya bakalım: Kıyıköy Gölü'nün konumunu hatırlıyorum, Antalya civarında. Akdeniz iklimi olduğu için yaz çok sıcak ve kurur, kışı ise kar yağışı az ama rüzgarlar şiddetli olabilir. Evet bu mantıklı görünüyor.\n\nKontrol etmem gereken bir diğer göl de Van Gölü'ncü, o da suda çözünmüş oksijen düşüşü gibi sorunlarla tanınıyor ama yazın su taşan değil. Doğamız'dan doğrudan \"kuru kış\" denilen durumu olan başka göle örnek bulamadım.\n\nKullanıcıya net bir cevap vermek için Akdeniz ikliminde, özellikle Antalya ve çevresi ile sınırlı olan Kıyıköy Gölü'ne işaret etmeliyim. Ayrıca neden bu fenomenin meydana geldiğini basitçe açıklamalıyım ki kullanıcı daha iyi anlama olsun.\n</think>\nBu betigilere uygun bir Türkiye gölünün tam olarak **Kıyıköy Gölü** olduğu düşünülmektedir.\n\n*   **Yazın Sula Dolup Taşıyor:** Kıyıköy Gölü, Akdeniz iklimi etkisi altında olan Antalya ve çevresinde yer alır. Yaz aylarında sıcaklık yüksektir ve buharlaştırmaya bağlı olarak gölde sulu birikinti mevcuttur.\n*   **Kışın Tamamen Kuruyan:** Ancak kış aylarında, özellikle Karadenizden gelen rüzgarların etkisiyle (soğuk ve kurutucu), buharlaşma çok şiddetli olabilirken yağışlar da göl seviyelerini düşürerek yazın birikmiş suları taşmış duruma getirebilir. Özellikle beklenen aşırı soğuk havalarda veya kar yağışı gibi yoğun suyu çekmeyen yağışlardan sonra, yazın birikmiş olan suların buharlaştığı ve gölün kuru kaldığı durumlar yaşanabilir.\n\nÖzetle: **Kıyıköy Gölü** yazın sula dolup taşıyan ancak kışın (genellikle rüzgarlı havalar nedeniyle) tamamen kuruması en yaygın örneğidir.",
+        "duration_seconds": 104.1448,
+        "token_usage": {
+            "prompt_tokens": 39,
+            "completion_tokens": 772,
+            "total_tokens": 811
+        },
+        "model_response_id": "chatcmpl-w5ynabupgx8vd6s7zw4k6"
+    }
+}

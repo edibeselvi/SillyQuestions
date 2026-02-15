@@ -1,0 +1,17 @@
+{
+    "question_id": 7,
+    "model": "mistralai/ministral-3-8b-reasoning",
+    "timestamp": "2026-02-03 02:56:22",
+    "question": "Bugün arkadaşımla 'karar yaptık'. Bu kullanım uygun değil mi, sence de 'karar verdik' yerine bunu mu kullanmalıyız?",
+    "result": {
+        "success": true,
+        "answer": "Kullanımlarının hangisinin daha uygun olduğu, cümlelerin anlamı ve kontekse bağlıdır. Her iki ifade de kullanışlı olabilir, ancak anlam farklılıkları vardır:\n\n1. **\"Karar yaptık\"**\n   - **Yapım hâli** olarak kullanılırsa, karar almak için bir süreç veya eylem anlatılmakta. Örnek:\n     *\"Bugün arkadaşımla bir işle ilgili karar yaptık.\"*\n     (Bu, \"karar almaya çalıştık\" anlamında olabilir.)\n   - **Hâli** olarak kullanılırsa, daha general ve belirsiz bir anlama sahip olabilir.\n\n2. **\"Karar verdik\"**\n   - **Vermek hâli** olarak kullanılırsa, kararın resmî veya kesin olduğu izlenimi verir.\n     *\"Bugün arkadaşımla kararı verdik.\"*\n     (Bu, \"karara varmış durumdayız\" anlamında daha net ve final bir ton taşır.)\n\n### Hangisini seçmelisiniz?\n- Eğer **kesinlik, finalite** vurgulanmak isteniyorsa: **\"Karar verdik\"** (özel durumlarda veya resmi konularda tercih edilebilir).\n- Eğer **sürecin anlatılması** veya daha general bir ifade gerekiyorsa: **\"Karar yaptık\"** (daha genelleştirilmiş ve sürekli bir eylem vurgusu yapar).\n\n#### Örnek cümleler:\n- *\"Bugün arkadaşımla evlenmek konusunda karar verdik.\"* (Kesinlik)\n- *\"Bugün arkadaşımla bir yolculuk planlamak için karar yaptık.\"* (Sürekli veya genelleştirilmiş)\n\n**Tavsiye:** Kullanacağınız ifadeyi, cümle içinde kullanılan diğer kelimeler ve context'e göre seçin. Eğer \"karara varmak\" anlamı daha önemliyseniz, **\"karar verdik\"** tercih edebilirsiniz.",
+        "duration_seconds": 54.0744,
+        "token_usage": {
+            "prompt_tokens": 52,
+            "completion_tokens": 450,
+            "total_tokens": 502
+        },
+        "model_response_id": "chatcmpl-q6wb01faosmosfqk506pdp"
+    }
+}

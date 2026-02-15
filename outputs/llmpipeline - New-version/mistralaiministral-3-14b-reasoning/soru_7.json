@@ -1,0 +1,17 @@
+{
+    "question_id": 7,
+    "model": "mistralai/ministral-3-14b-reasoning",
+    "timestamp": "2026-02-03 03:11:55",
+    "question": "Bugün arkadaşımla 'karar yaptık'. Bu kullanım uygun değil mi, sence de 'karar verdik' yerine bunu mu kullanmalıyız?",
+    "result": {
+        "success": true,
+        "answer": "İki ifade de Türkçe'de geçerli, ancak kullanım contextine (durumuna) göre değişiklik gösterir.\n\n- **\"Karar verdik\"** daha formal, resmî ve \"sonsuzluk\" hissi veren bir tabirdir. Örneğin:\n  *\"Toplantıda kararı verdik ki projede 10 kişilik ekibe ihtiyaç var.\"*\n\n- **\"Karar yaptık\"** ise daha doğal, gündelik, arkadaslar arası bir ifadedir ve \"ortak bir plan ya da tercih belirlendiğimiz\" anlamı taşır. Örneğin:\n  *\"Bugün arkadaşımla restoranlar arasında karar yaptık, son anda Sushi Han'a gittik.\"*\n\n**Sonuç olarak:**\n- Formal/yetkili durumlarda **\"karar verdik\"** daha uygun.\n- Arkadaşlar arası, gündelik tercihler için **\"karar yaptık\"** daha tabiidir.\n\nEvet, senin kullandığın cümle tamamen doğal ve anlamlı.",
+        "duration_seconds": 48.315,
+        "token_usage": {
+            "prompt_tokens": 52,
+            "completion_tokens": 232,
+            "total_tokens": 284
+        },
+        "model_response_id": "chatcmpl-trol61tm6ghwaxu96s67a"
+    }
+}

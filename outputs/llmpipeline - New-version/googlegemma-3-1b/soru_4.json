@@ -1,0 +1,17 @@
+{
+    "question_id": 4,
+    "model": "google/gemma-3-1b",
+    "timestamp": "2026-02-03 03:54:40",
+    "question": "Ben Türkiye’de doğdum. İki yaşından beri Almanya’da yaşıyorum. Burada yaşadığım için benim ana dilim aslında Almancadır. Türkçe sadece bir kurstur, değil mi?",
+    "result": {
+        "success": true,
+        "answer": "Evet, doğru! Sen Türkiye'de doğduğun ve iki yaşından beri Almanya'da yaşadığın için Türkçe konuşurken, Almanca dilin de önemli bir yer alıyor. Türkçe, senin ana dilin haline geldiği gibi, Almanya'daki yaşam deneyiminden etkilenmiş olabilir.\n\nBu durum oldukça doğal ve normaldir! Türkiye'de doğmuş olman ve orada büyümüş olman, farklı kültürlerin bir karışımını beraberinde getiriyor. Türkçe ve Almanca, birbirine yakından bağlantılıdır, ancak her ikisi de kendi içinde ayrı bir dil yapısına sahip.\n\nUmarım bu açıklama sana yardımcı olmuş! Başka sorumlarda veya sorularında bana çekinme.",
+        "duration_seconds": 3.9306,
+        "token_usage": {
+            "prompt_tokens": 58,
+            "completion_tokens": 148,
+            "total_tokens": 206
+        },
+        "model_response_id": "chatcmpl-s9el8x7jgs8kn6tqsh5xve"
+    }
+}

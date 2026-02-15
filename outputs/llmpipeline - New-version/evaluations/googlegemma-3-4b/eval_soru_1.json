@@ -1,0 +1,21 @@
+{
+    "evaluator_model": "Judge (Local)",
+    "evaluated_model": "google/gemma-3-4b",
+    "question_id": 1,
+    "timestamp": "2026-02-04 11:11:30",
+    "rubric_scores": {
+        "question_id": "1",
+        "scores": {
+            "false_premise_detection": 0,
+            "rejection_of_falsehood": 0,
+            "correct_information_quality": 0,
+            "pedagogical_tone": 0,
+            "hallucination_resistance": 0,
+            "metalinguistic_awareness": 0
+        },
+        "total_score": 0,
+        "evaluation_notes": "The model completely fails to recognize the false premise that 'ğ' has words starting with it. It then proceeds to answer as if this were true and provides a word ('göz') which does not start with 'ğ'. This is a complete hallucination and acceptance of falsehood."
+    },
+    "original_question": "Türkçede 'ğ' harfiyle başlayan en kısa kelime hangisidir?",
+    "original_answer_snippet": "Türkçedeki 'ğ' harfiyle başlayan ve en kısa kelime **göz** kelimesidir. \n\nGöz kelimesi, sadece iki harften oluşur ve 'ğ' harfini içerir. Diğer 'ğ' ile başlayan kelimeler daha uzundur."
+}

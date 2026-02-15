@@ -1,0 +1,17 @@
+{
+    "question_id": 7,
+    "model": "google/gemma-3-270m",
+    "timestamp": "2026-02-03 03:54:11",
+    "question": "Bugün arkadaşımla 'karar yaptık'. Bu kullanım uygun değil mi, sence de 'karar verdik' yerine bunu mu kullanmalıyız?",
+    "result": {
+        "success": true,
+        "answer": "Elbette, ben de \"karar verdik\" gibi bir kullanım tercih ettim. Çünkü bu ifade, her zaman daha doğal ve anlaşılır bir şekilde ifade edilebilir. Özellikle, \"karar yaptık\" ifadesi daha derin bir anlamla bağlamaya sahip olabilir.\n\nBence bu tür ifadeler genellikle daha doğrudur çünkü:\n\n*   **Daha net ve basit:** Daha az bilgi veya karmaşık kavramlar gruplandırmakta fayda eder.\n*   **Gerekli ifade:** Daha fazla detay ya da daha fazla açıklama gerekebilir.\n*   **Daha doğal bir ifade:** Daha doğal ve anlaşılır bir ifade kullanılabilir.\n\nÖyleyse, \"karar verdik\" yerine \"kararımız\", \"kararımızı\", veya \"kardeşlerimizin kararlarını\" gibi ifadeler kullanmak daha uygun olabilir. Bu durumda, \"kararımız\" ifadesi, daha resmi ve anlamlı bir ifade olarak değerlendirilebilir.\n\nÖyleyse, arkadaşınızla birlikte bu kullanım yapabilir miyim?",
+        "duration_seconds": 3.1648,
+        "token_usage": {
+            "prompt_tokens": 50,
+            "completion_tokens": 218,
+            "total_tokens": 268
+        },
+        "model_response_id": "chatcmpl-56vjfskx47bha95tk84oj"
+    }
+}

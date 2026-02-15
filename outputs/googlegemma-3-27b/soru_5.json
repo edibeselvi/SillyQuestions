@@ -1,0 +1,17 @@
+{
+    "question_id": 5,
+    "model": "google/gemma-3-27b",
+    "timestamp": "2026-02-03 03:38:07",
+    "question": "Atatürk cumhuriyeti ilan ettikten sonra İstanbul’u neden başkent yaptı?",
+    "result": {
+        "success": true,
+        "answer": "Atatürk, Cumhuriyeti ilan ettikten sonra başkenti Ankara olarak belirlemiştir, İstanbul'u değil. Bu kararın alınmasında birçok önemli etken rol oynamıştır:\n\n*   **Kurtuluş Savaşı'nın Merkezi:** Ankara, Kurtuluş Savaşı boyunca milli hareketin yönetim merkezi olmuş ve direnişin sembolü haline gelmiştir. Savaşın kazanılmasında büyük bir rol üstlenmiş olması, şehrin manevi önemini artırmıştır.\n*   **İç Anadolu'nun Önemi:** Ankara, İç Anadolu Bölgesi'nin merkezinde yer alması nedeniyle ülkenin farklı bölgelerine ulaşımı kolaylaştıran stratejik bir konumdadır. Bu durum, yeni devletin yönetim ve iletişim açısından daha etkin olmasını sağlamıştır.\n*   **İstanbul'un Dış Etkilerinden Uzaklık:** İstanbul, tarihi boyunca birçok yabancı gücün ilgi odağı olmuş ve dış etkilerden sürekli olarak etkilenmiştir. Ankara ise, iç kesimlerde yer alması nedeniyle bu tür baskılardan uzak bir konumdadır. Atatürk, yeni devletin bağımsızlığını korumak ve kendi öz değerleriyle gelişmesini sağlamak amacıyla İstanbul'dan uzaklaşmayı tercih etmiştir.\n*   **Yeni Bir Başlangıç İsteği:** Ankara, Osmanlı İmparatorluğu'nun geçmişiyle doğrudan bağlantılı olmayan, daha dinamik ve modern bir şehirdi. Atatürk, başkenti değiştirerek Türkiye Cumhuriyeti'nin yeni bir başlangıç yapmasını ve geleceğe yönelik hedeflerine ulaşmasını sağlamak istemiştir.\n*   **Ulaşım Kolaylığı:** Demiryolu ağının Ankara üzerinden geçmesi, şehrin diğer bölgelerle bağlantısını güçlendirmiştir. Bu durum, başkentin ekonomik ve sosyal gelişimi için önemli bir avantaj sağlamıştır.\n\nBu nedenlerle Atatürk, 13 Ekim 1923 tarihinde Türkiye Cumhuriyeti'nin başkentini İstanbul yerine Ankara olarak ilan etmiştir.",
+        "duration_seconds": 194.2312,
+        "token_usage": {
+            "prompt_tokens": 34,
+            "completion_tokens": 412,
+            "total_tokens": 446
+        },
+        "model_response_id": "chatcmpl-ikvie5boxx1m6kua94zgk"
+    }
+}

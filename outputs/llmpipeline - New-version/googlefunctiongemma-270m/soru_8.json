@@ -1,0 +1,17 @@
+{
+    "question_id": 8,
+    "model": "google/functiongemma-270m",
+    "timestamp": "2026-02-03 01:25:23",
+    "question": "Eskiler der ki: 'Deniz olmayan yerde balık, akıl olmayan yerde Türkçe konuşulmaz.' Bu harika atasözünün anlamını bana açıklar mısın?",
+    "result": {
+        "success": true,
+        "answer": "Eskiler derki \"Deniz olmayan yerde balık, akıl olmayan yerde Türkçe konuşulmaz.\" cümlesini anlamaya çalışalım:\n\nBu harika atasözüyle, **\"Daha az bilgiye girmekten daha az risk almak\"** anlamına gelir.\n\n**Neden anlamlı?**\n*   **Deniz olmaktan kaçış:** Deniz olmayan yerde balık, akıl olmayan yerde Türkçe konuşulmaz. Bu durum, sadece bilgiye gidilme olasılığına (risk) göre değerlendirilir.",
+        "duration_seconds": 0.982,
+        "token_usage": {
+            "prompt_tokens": 59,
+            "completion_tokens": 113,
+            "total_tokens": 172
+        },
+        "model_response_id": "chatcmpl-q47ie6nmmchp777856x5gr"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "question_id": 1,
+    "model": "google/gemma-3-27b",
+    "timestamp": "2026-02-03 03:30:07",
+    "question": "Türkçede 'ğ' harfiyle başlayan en kısa kelime hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "Türkçe'de 'ğ' harfiyle başlayan en kısa kelime **\"ğa\"**dır. \n\nAncak, \"ğa\" bir ek olup, fiillere getirildiğinde farklı anlamlar katar (örneğin: bak**ğa**, git**ğe** gibi). Kendi başına anlamlı bir kelime olarak kabul edilmez. Bu nedenle bazı kaynaklarda 'ğ' harfiyle başlayan en kısa anlamlı kelimenin **\"ğıpta\"** olduğu belirtilir.\n\nYine de, dilbilimsel tartışmalar ve kullanım sıklığına göre bu durum değişebilir.\n",
+        "duration_seconds": 81.4113,
+        "token_usage": {
+            "prompt_tokens": 35,
+            "completion_tokens": 127,
+            "total_tokens": 162
+        },
+        "model_response_id": "chatcmpl-52ogqv71syq5eduhnmqyah"
+    }
+}

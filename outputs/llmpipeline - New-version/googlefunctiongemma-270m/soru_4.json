@@ -1,0 +1,17 @@
+{
+    "question_id": 4,
+    "model": "google/functiongemma-270m",
+    "timestamp": "2026-02-03 01:25:21",
+    "question": "Ben Türkiye’de doğdum. İki yaşından beri Almanya’da yaşıyorum. Burada yaşadığım için benim ana dilim aslında Almancadır. Türkçe sadece bir kurstur, değil mi?",
+    "result": {
+        "success": true,
+        "answer": "Tamamdır, Türkçe sadece bir kursturdum. Ben de Türkiye'de doğdum ve ikili evlenince Almanya'da yaşıyormuşum. Türkçe olarak sadece bir kursturdum, ancak Türkçe'nin anlamını bilmek için biraz daha detaylı bilgi edinebilir misin?",
+        "duration_seconds": 0.5837,
+        "token_usage": {
+            "prompt_tokens": 62,
+            "completion_tokens": 64,
+            "total_tokens": 126
+        },
+        "model_response_id": "chatcmpl-1dz47y9rryhfpxzruoq45e"
+    }
+}

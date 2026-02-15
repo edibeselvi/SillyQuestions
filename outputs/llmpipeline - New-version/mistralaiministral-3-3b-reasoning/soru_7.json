@@ -1,0 +1,17 @@
+{
+    "question_id": 7,
+    "model": "mistralai/ministral-3-3b-reasoning",
+    "timestamp": "2026-02-03 02:46:58",
+    "question": "Bugün arkadaşımla 'karar yaptık'. Bu kullanım uygun değil mi, sence de 'karar verdik' yerine bunu mu kullanmalıyız?",
+    "result": {
+        "success": true,
+        "answer": "Cevaplar için çok fazla bilgi yetersiz. Söylüğün \"karar\" ile \"vermek\" arası fark var mı? Eğer \"karar\" ifadesi \"verdi\" ifadesiyle aynı anlamda kullanılıyor, o zaman \"karar verdik\" ifadesi daha uygun olabilir. Lütfen daha detaylı bilgi verin ya da soruyu tekrar edin.\n\nÖrnek:\n- \"Bugün arkadaşımla 'karar yapıyorduk'. (bu kullanım uygun değildir, çünkü \"yapıyorduk\" ifadesi zaman dilimiyle uyumlu olmaz.)\n- \"Bugün arkadaşımla 'karar verdik' diyorduk. (bu kullanım daha uygun olabilir.)\"",
+        "duration_seconds": 9.3645,
+        "token_usage": {
+            "prompt_tokens": 52,
+            "completion_tokens": 180,
+            "total_tokens": 232
+        },
+        "model_response_id": "chatcmpl-cu1qjnex5aam1vemcevry"
+    }
+}

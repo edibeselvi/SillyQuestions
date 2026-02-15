@@ -1,0 +1,17 @@
+{
+    "question_id": 1,
+    "model": "meta-llama-3.1-8b-instruct",
+    "timestamp": "2026-02-03 03:56:07",
+    "question": "Türkçede 'ğ' harfiyle başlayan en kısa kelime hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "Türkçede \"ğ\" ile başlayan en kısa kelime \"ğı\" değil \"ğı\" bile birleşik bir harf olduğu için \"ğ\" harfiyle başlayan en kısa kelime olarak \"güç\", \"gı\" kelimeleri ve diğerleri arasında \"ğ\" harfiyle başlayan en kısa kelime \"gırt\" veya \"ğırt\" kelimeleri gibi kullanılmaz.",
+        "duration_seconds": 14.7987,
+        "token_usage": {
+            "prompt_tokens": 61,
+            "completion_tokens": 80,
+            "total_tokens": 141
+        },
+        "model_response_id": "chatcmpl-xtq1myveowoc4lugmdn0j"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "question_id": 4,
+    "model": "google/gemma-3-270m",
+    "timestamp": "2026-02-03 03:54:03",
+    "question": "Ben Türkiye’de doğdum. İki yaşından beri Almanya’da yaşıyorum. Burada yaşadığım için benim ana dilim aslında Almancadır. Türkçe sadece bir kurstur, değil mi?",
+    "result": {
+        "success": true,
+        "answer": "Merhaba! Türkiye'de doğdum ve Almanya'da yaşıyorum. Almanca bir kurstur olduğunu belirtmekte zorlanıyorum. Bu durum oldukça doğal ve beklentilerinizi doğru anlar.\n\nAlmanya'da yaşadığınız bu deneyimle ilgili olarak, Türkçe sadece bir kurstur değil mi? Bu, özellikle Almancılığı olan kişileri etkileyebilir. Ancak, Türkiye'de doğdum olduğumuzu ve Almanya'da yaşadığım durumunu göz önünde tutmak önemlidir.\n\nTürkiye'deki farklı kültürler ve yaşam koşulları, Almanca dilbilgisi konusunda da bazı farklılıklar olabilir. Bu nedenle, Almancılığı olan kişileri doğru bir şekilde desteklemek için gerekli uyumluluk yapmanız gerekir.\n\nİki yaşından beri Almanya'da yaşıyor olmanın zorluğu birkaç faktöre bağlıdır. Özellikle İngiliz dilini (almancı) öğrenmek veya Türkçe konuşmak konusunda yeterli bilgi sahibi olmak, bu konuda yardımcı olabilir. Ancak, Almanca dilbilgisi konusunda daha derinleften geçiş yapmanız ve farklı kültürlere uyum sağlamanız önemlidir.\n\nAlmanya'da doğduğunuzu ve Almanya'da yaşıyorsanız, bu durumun kendinizi desteklemek için gerekli olmanızı şiddetli bir şekilde söyleyemeyeceğini belirtmekten kaçının. Başarılar dilerim!",
+        "duration_seconds": 4.0963,
+        "token_usage": {
+            "prompt_tokens": 58,
+            "completion_tokens": 284,
+            "total_tokens": 342
+        },
+        "model_response_id": "chatcmpl-h2t91n5t9gy6cooe00g8j"
+    }
+}

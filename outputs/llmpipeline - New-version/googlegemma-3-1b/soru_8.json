@@ -1,0 +1,17 @@
+{
+    "question_id": 8,
+    "model": "google/gemma-3-1b",
+    "timestamp": "2026-02-03 03:55:11",
+    "question": "Eskiler der ki: 'Deniz olmayan yerde balık, akıl olmayan yerde Türkçe konuşulmaz.' Bu harika atasözünün anlamını bana açıklar mısın?",
+    "result": {
+        "success": true,
+        "answer": "Bu atasözü, eski insanların hayat anlayışının ve düşüncelerinin basitliğine vurgu yapmak için yazılmış bir sözdür. Temelde şunu ifade eder:\n\n*   **Deniz olmayan bir yerde balık yok:** Bu, gerçekçi ve pragmatik bir yaklaşım. Denizde yaşamak için suya ihtiyaç vardır. Eğer bir yere hiç gidecek yer yoksa, orada herhangi bir şeyin veya kişinin bulunması imkansızdır.\n*   **Akıl olmayan bir yerde Türkçe konuşulmaz:** Akılın olmadığı bir yerde, düşünce ve dil kullanılmaz. Bu, çabuk ve mantıksız olan şeylere yönelmekten kaçınmanın önemini vurgular.\n\n**Özetle**, atasözü, gerçekçi ve pratik düşünceye, mantıklı olmayan ve hayalperest yaklaşım yerine sade ve doğrudan bir bakış açısına önem veren insanların hayat tarzını ifade eder. Efsaneye göre bu söz, eski zamanlarda denizlerde yaşayanların ve balıkların akılın olmadığı yerlerde Türkçe konuşmadığını söyler.\n\nUmarım bu açıklama yardımcı olmuştur! Başka konuda yardıma ihtiyacınız olursa çekinmeyin.",
+        "duration_seconds": 6.5856,
+        "token_usage": {
+            "prompt_tokens": 55,
+            "completion_tokens": 250,
+            "total_tokens": 305
+        },
+        "model_response_id": "chatcmpl-2w35m2a18olz32hj55eyga"
+    }
+}

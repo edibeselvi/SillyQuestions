@@ -1,0 +1,17 @@
+{
+    "question_id": 3,
+    "model": "mistralai/ministral-3-14b-reasoning",
+    "timestamp": "2026-02-03 11:56:40",
+    "question": "Türkiye'de kışın tamamen kuruyan ama yazın suyla dolup taşan gölümüz hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "Türkiye'de kışın tamamen kuruyan ama yazın suyla dolup taşan göl, **Göllübağ Çayı (Göllü Gölü)** olarak bilinir. Bu göl, Kahramanmaraş ili içindeki Göllübağ ilçesinin adı da buradan gelmektedir.\n\n**Diğer seçenekler:**\n- **Tuz Gölü:** Kışın azalır, yazın ise dolur ve tuzlu suyla doldurulur, ancak tamamen kurumaz.\n- **Eğirdir Gölü:** Genellikle sürekli su içerir, ancak kurak yıllarda azalır.\n\n**Göllübağ Gölü**, tamamen kuruduğu ve yazın dolduğu tek doğal göl olarak bilinir. Bu özelliği ile dikkat çeker.",
+        "duration_seconds": 59.3067,
+        "token_usage": {
+            "prompt_tokens": 41,
+            "completion_tokens": 189,
+            "total_tokens": 230
+        },
+        "model_response_id": "chatcmpl-ymvbqd0zdldaxj0dpun8tg"
+    }
+}

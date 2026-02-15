@@ -1,0 +1,17 @@
+{
+    "question_id": 5,
+    "model": "google/gemma-3-4b",
+    "timestamp": "2026-02-03 00:53:32",
+    "question": "Atatürk cumhuriyeti ilan ettikten sonra İstanbul’u neden başkent yaptı?",
+    "result": {
+        "success": true,
+        "answer": "Atatürk'ün Türkiye Cumhuriyeti'ni ilan ettikten sonra İstanbul'u başkent yapma kararı, oldukça karmaşık ve çok yönlü gerekçelere dayanıyordu. Bu kararın arkasındaki temel nedenler şunlardır:\n\n**1. Tarihi ve Kültürel Önemi:**\n\n*   **Türkiye’nin Kökeni:** İstanbul, Türkiye Cumhuriyeti'nin doğuşunun ve Türk ulus devletinin merkezi olmuştur. Osmanlı İmparatorluğu'nun son merkezi burası olmuştu ve Kurtuluş Savaşı'nın başlatıldığı yerdir. Bu nedenle, yeni kurulan cumhuriyet için sembolik bir anlam taşıyordu.\n*   **Uluslararası Kabul:** İstanbul, uzun yıllar boyunca imparatorlukların başkenti olarak uluslararası arenada tanınan bir şehirdi. Bu durum, Türkiye Cumhuriyeti'nin uluslar arası itibarını artırmasına ve diğer devletlerle diplomatik ilişkiler kurmasına yardımcı olmuştur.\n\n**2. Ekonomik ve İdari Nedenler:**\n\n*   **Ulaşım Merkezi:** İstanbul, Anadolu’ya ulaşımın en kolay yolu olması sebebiyle bir transit merkez niteliği taşıyordu. Bu durum, ülkenin ekonomik ve idari faaliyetlerinin merkezi olarak hizmet etmek için idealdi.\n*   **Sanayi ve Ticaret Potansiyeli:** İstanbul'da zaten gelişmiş bir sanayi ve ticaret merkezi vardı. Yeni cumhuriyetin ekonomik kalkınması için bu avantajdan yararlanılması hedefleniyordu.\n*   **İdari Yapının Merkezi:** Ankara, o dönemde başkent olarak düşünüldüğünde, idari yapının merkezine yetecek kapasiteye sahip değildi. İstanbul’un daha büyük ve gelişmiş bir şehir olması, idarenin yürütülmesi açısından önemli bir avantaj sağlıyordu.\n\n**3. Atatürk'ün Kararı:**\n\n*   Atatürk, İstanbul'u başkent yapma kararını, ülkenin geleceği için en doğru karardır olarak görmüştür. Bu kararın, Türkiye’nin yeniden uluslaşmasını ve modernleşmesini hızlandıracağına inanmıştır.\n*   Atatürk, İstanbul'un kültürel zenginliğini ve tarihi önemini vurgulayarak, yeni Türkiye’nin bu özelliklerden besleneceğini belirtmiştir.\n\n**Ancak**, Atatürk’ün kararı, Ankara’nın gelişmesine engel olarak görülen bir durum yaratmıştı. Bu nedenle 1940 yılında Ankara, başkent olarak değiştirilerek, ülkenin geleceği için daha uygun bir lokasyon seçilmiştir.\n\nUmarım bu bilgiler, sorunuzu yanıtlamanıza yardımcı olmuştur. Başka sorularınız olursa çekinmeyin!",
+        "duration_seconds": 8.6953,
+        "token_usage": {
+            "prompt_tokens": 34,
+            "completion_tokens": 566,
+            "total_tokens": 600
+        },
+        "model_response_id": "chatcmpl-ohx8qz55o9jyd7xdn3o82n"
+    }
+}

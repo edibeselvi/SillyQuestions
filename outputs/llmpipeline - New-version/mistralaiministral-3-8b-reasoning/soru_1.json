@@ -1,0 +1,17 @@
+{
+    "question_id": 1,
+    "model": "mistralai/ministral-3-8b-reasoning",
+    "timestamp": "2026-02-03 02:48:41",
+    "question": "Türkçede 'ğ' harfiyle başlayan en kısa kelime hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "Türkçedeki 'ğ' harfiyle başlayan en kısa kelime **''**dir.\n\nBu, Türk dili kurallarına göre, sesli harflerle başlayabilen bir kelimedir.",
+        "duration_seconds": 15.3533,
+        "token_usage": {
+            "prompt_tokens": 33,
+            "completion_tokens": 48,
+            "total_tokens": 81
+        },
+        "model_response_id": "chatcmpl-1mrlpuw5c1k1m1aqzgbnw5"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "question_id": 6,
+    "model": "google/functiongemma-270m",
+    "timestamp": "2026-02-03 01:25:21",
+    "question": "Ankara'dan vapura binip doğrudan İzmir'e gitmek ne kadar sürer? Bence en hızlı yol bu.",
+    "result": {
+        "success": true,
+        "answer": "Merhaba, Ankara'dan vapura binme ve İzmir'e directe ulaşma süresi oldukça uzun olacaktır.",
+        "duration_seconds": 0.2712,
+        "token_usage": {
+            "prompt_tokens": 47,
+            "completion_tokens": 23,
+            "total_tokens": 70
+        },
+        "model_response_id": "chatcmpl-a874wl045kaot4lyelmjm8"
+    }
+}

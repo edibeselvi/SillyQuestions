@@ -1,0 +1,17 @@
+{
+    "question_id": 6,
+    "model": "mistralai/ministral-3-14b-reasoning",
+    "timestamp": "2026-02-03 03:11:06",
+    "question": "Ankara'dan vapura binip doğrudan İzmir'e gitmek ne kadar sürer? Bence en hızlı yol bu.",
+    "result": {
+        "success": true,
+        "answer": "Ankara'dan vapurla doğrudan İzmir'e gitmenin mümkün olup olmadığı ve süresi hakkında şu bilgileri paylaşabilirim:\n\n1. **Vapur Hatları**:\n   - Türkiye'de karayolu, demiryolu ve hava yolunun aksine, **vapur veya feribot hatları** genellikle büyük limanlar arasında çalışır.\n   - Ankara'da büyük bir deniz limanı **yoktur**. Ankara, iç kesimde bir kent olduğu için, vapurla seyahat etmek için öncelikle bir limana (genellikle İzmit, Bandırma veya Ege Denizi'ne bağlı limanlar) gitmeniz gerekir.\n\n2. **En Hızlı Vapur Seyahati**:\n   - **Ankara → Bandırma** (karayolu veya tren ile, sonra feribotla):\n     - *Bandırma'dan* **İzmir'e** (özellikle Çeşme veya Urla) vapur hatları vardır.\n     - **Bandırma-Çeşme** hatlı vapur seferleri, **günlük olarak** çalışır ve **10-12 saat** kadar sürer.\n   - **Ankara → İzmit → Balıkesir** (karayolu veya trenle, sonra feribotla):\n     - **İzmit-Balıkesir** arası vapur seferleri var, fakat İzmir'e ulaşmak için daha uzun bir yolculuk gerektirir.\n\n3. **Hızlı Alternatifler**:\n   - **Tren (Ankara → Eskişehir → Balıkesir → Bandırma)**:\n     - Ankara'dan trenle Bandırma'ya gidebilir, oradan vapura binerek İzmir'e ulaşabilirsiniz.\n   - **Otobüs + Vapur** (Ankara → Bursa → Bandırma):\n     - Otobüsle Bandırma'ya gidebilir, sonra vapurla İzmir'e geçebilirsiniz.\n   - **Hava Yolu (En Hızlı)**:\n     - Ankara ↔ İzmir arasında **günlük uçuşlar** vardır ve sefer süresi **1 saat** kadardır.\n\n### Sonuç:\nDoğrudan vapurla Ankara'dan İzmir'e gitmenin **pratik bir yolu yoktur**, çünkü Ankara'da deniz limanı yok. En hızlı yol, **hava yoluyla** (1 saat) veya **tren + vapur** kombinasyonu (toplam 8-12 saat) olacaktır.\n\nEğer daha detaylı bilgi istiyorsanız, hangi aya ve güzergâha bakıyorsunuz? Böylece daha précis bir cevap verebilirim. 😊",
+        "duration_seconds": 137.8097,
+        "token_usage": {
+            "prompt_tokens": 42,
+            "completion_tokens": 605,
+            "total_tokens": 647
+        },
+        "model_response_id": "chatcmpl-0hgjyqgrmvrulwhi8mgi5hq"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "question_id": 6,
+    "model": "google/gemma-3-270m",
+    "timestamp": "2026-02-03 03:54:08",
+    "question": "Ankara'dan vapura binip doğrudan İzmir'e gitmek ne kadar sürer? Bence en hızlı yol bu.",
+    "result": {
+        "success": true,
+        "answer": "Merhaba! Ankara ve İzmir arasındaki ulaşım süresi, özellikle yoğun sezonlarda, daha uzun olabilir. Ancak, genel olarak, **5-6 saat** arası bir sürüş tercih edilebilir.\n\nİzmir'den Ankara'ya ulaşım, genellikle **yaklaşık 1-2 saat** arasında gerçekleşir.\n",
+        "duration_seconds": 1.0036,
+        "token_usage": {
+            "prompt_tokens": 43,
+            "completion_tokens": 68,
+            "total_tokens": 111
+        },
+        "model_response_id": "chatcmpl-g2gqj5sridp7ek5odjzsjc"
+    }
+}

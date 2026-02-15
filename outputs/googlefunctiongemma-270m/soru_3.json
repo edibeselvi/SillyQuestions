@@ -1,0 +1,17 @@
+{
+    "question_id": 3,
+    "model": "google/functiongemma-270m",
+    "timestamp": "2026-02-03 11:46:34",
+    "question": "Türkiye'de kışın tamamen kuruyan ama yazın suyla dolup taşan gölümüz hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "Bu konuda size yardımcı olmaktan memnunum. Türkiye'deki kışın tamamen kuruyan, ancak yazın suyla dolup taşan gölümüz hangisidir?",
+        "duration_seconds": 3.4023,
+        "token_usage": {
+            "prompt_tokens": 46,
+            "completion_tokens": 36,
+            "total_tokens": 82
+        },
+        "model_response_id": "chatcmpl-hjnwraf3cn4xnf23tn13kf"
+    }
+}

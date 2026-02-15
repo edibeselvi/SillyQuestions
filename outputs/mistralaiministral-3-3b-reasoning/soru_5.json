@@ -1,0 +1,17 @@
+{
+    "question_id": 5,
+    "model": "mistralai/ministral-3-3b-reasoning",
+    "timestamp": "2026-02-03 02:46:39",
+    "question": "Atatürk cumhuriyeti ilan ettikten sonra İstanbul’u neden başkent yaptı?",
+    "result": {
+        "success": true,
+        "answer": "Atatürk, Türkiye Cumhuriyeti'nin ilan edilmesiyle 29 Ekim 1923'te İstanbul'u yeni başkenti seçti. Bu kararı, çeşitli faktörler ve stratejik amaclar üzerine alındı. Bunlar arasında:\n\n1. **Türkiye'nin birleşmesinin simgesi**: İstanbul, Osmanlı İmparatorluğu'nun en önemli merkeziydi. Atatürk bu nedenle Türkiye Cumhuriyeti'nin ilk başkenti olarak İstanbul'u seçti.\n\n2. **Stratejik konum**: İstanbul, Akdeniz ile Black Sea arasındaki kavahtı kontrol edebileceği bir stratejik konumdaydı. Bu, Türkiye'nin Avrupa ve Asya arasında bir geçiş noktası olmasını sağlıyordu.\n\n3. **İslam ve modernite arası yatkınlık**: İstanbul'da, Osmanlı devrinde İslami ve modern entelektüel gelenekler arasında denge kuruluyordu. Atatürk bu bağlamda, modernizmin adına İstanbul'u seçti.\n\n4. **Yerel yönetimde change**: İstanbul'un yönetimi, yeni kurulan Cumhuriyet Hükûmeti tarafından birincil olarak atanmış ve yeniden düzenlenmişti.\n\n5. **Türkiye'nin Avrupa'nın merkezinde olma hedefi**: Atatürk, Türkiye'nin Avrupa'da bir devlet olması hedefini sürdüren bir politikaya girdi. İstanbul, bu hedefe uygun bir konumdaydı.\n\nBu nedenlerle, Atatürk tarafından İstanbul, 1924'te resmen Cumhuriyet Başkanlığı'nın merkezi olarak ilan edildi ve 30 Kasım 1924'te resmî olarak Türkiye Cumhuriyeti'nin başkenti seçildi.",
+        "duration_seconds": 18.9799,
+        "token_usage": {
+            "prompt_tokens": 30,
+            "completion_tokens": 367,
+            "total_tokens": 397
+        },
+        "model_response_id": "chatcmpl-9c7qqjgbdiovsltl3y85o"
+    }
+}

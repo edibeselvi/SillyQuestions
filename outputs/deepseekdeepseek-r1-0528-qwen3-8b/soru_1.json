@@ -1,0 +1,17 @@
+{
+    "question_id": 1,
+    "model": "deepseek/deepseek-r1-0528-qwen3-8b",
+    "timestamp": "2026-02-03 02:29:06",
+    "question": "Türkçede 'ğ' harfiyle başlayan en kısa kelime hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "<think>\nHmm, kullanıcı Türkçede 'ğ' harfine başlıyan en kısa kelimenin ne olduğunu soruyor. \n\nÖnce 'ğ' harfinin konumundaki kelimeleri düşünmem gerekiyor. En yaygın olanlar \"ağlı\" ve \"göğüs\". Ancak burada en kısa olanı bulmak önemli.\n\n\"Ali\"? Hayır, o 'a' ile başlıyor. \"Gel\"? O da 'g' başlıyor ama ilk harf değil. \n\nTamam, şimdi kelimeleri sıralayayım: \n- \"ağlı\": 3 harfli\n- \"göğüs\": 5 harfli\n\n\"Ğır\" kelimesini hatırlıyorum ama bu çok yaygın bir kelime değil de, sıfat olarak kullanılır. Sıfat olmasa bile geçerliydi, sadece en kısa kelimeyi arıyoruz.\n\nBaşka kelimeler var mı? \"Güzel\"? Hayır, o 'g' ile başlıyor ama ikinci harf 'ü'. \n\n\"Ğökyüzü\"? O da daha uzun. \n\nKullanıcı özellikle tek başına kullanılabilir bir kelime istiyor olabilir. En güvenilir olan \"ağlı\". Ama başka bir kelime düşündüm: \"Ğal\" gibi? Hayır, o çok daha az yaygın ve anlamda soruşturan.\n\nEvet, \"ağlı\" en doğru cevap görünüyor. Kullanıcıya net bir şekilde açıklamalıyım çünkü 'ğ' harfinin başlangıçta kalın olduğunu belirtmek önemli.\n</think>\nTürkçe'de **'ağlı** kelimesi, 'ğ' harfiyle başlayan ve diğerlerine göre en kısa olan yaygın bir kelimedir. Kelime 3 harf içerir.\n\nDiğer örnekler arasında:\n- **Göğüs** (5 harf)\n- **Ğır** (3 harf - ama daha az yaygın)\n\nbulunur, ancak **'ağlı** kelimesi hem yaygınlığı hem de kelime uzunluğundan en uygun cevaptır.",
+        "duration_seconds": 56.386,
+        "token_usage": {
+            "prompt_tokens": 30,
+            "completion_tokens": 457,
+            "total_tokens": 487
+        },
+        "model_response_id": "chatcmpl-wu3alnnxt1qs8gil23ft"
+    }
+}

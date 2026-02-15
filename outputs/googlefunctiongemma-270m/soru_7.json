@@ -1,0 +1,17 @@
+{
+    "question_id": 7,
+    "model": "google/functiongemma-270m",
+    "timestamp": "2026-02-03 01:25:22",
+    "question": "Bugün arkadaşımla 'karar yaptık'. Bu kullanım uygun değil mi, sence de 'karar verdik' yerine bunu mu kullanmalıyız?",
+    "result": {
+        "success": true,
+        "answer": "Senin doğru. Bugün arkadaşımla 'karar yaptık' kullanmak da doğru. Sizinle konuşmaya ve çözüm üretmeye devam etmelisiniz.",
+        "duration_seconds": 0.3802,
+        "token_usage": {
+            "prompt_tokens": 54,
+            "completion_tokens": 35,
+            "total_tokens": 89
+        },
+        "model_response_id": "chatcmpl-cpwp9j42u2dozeok7uqlqq"
+    }
+}

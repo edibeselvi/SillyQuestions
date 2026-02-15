@@ -1,0 +1,17 @@
+{
+    "question_id": 1,
+    "model": "google/gemma-3-12b",
+    "timestamp": "2026-02-03 03:19:45",
+    "question": "Türkçede 'ğ' harfiyle başlayan en kısa kelime hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "Türkçede \"ğ\" harfi ile başlayan herhangi bir kelime bulunmamaktadır. \"Ğ\" harfi, yumuşak g olarak bilinir ve kendisi bir kelime başı oluşturamaz. Genellikle başka harflerin ardından gelerek ses yumuşatması yapar veya bazı durumlarda sessiz kalır.",
+        "duration_seconds": 26.656,
+        "token_usage": {
+            "prompt_tokens": 35,
+            "completion_tokens": 68,
+            "total_tokens": 103
+        },
+        "model_response_id": "chatcmpl-t790198dlxolq6dsigbj"
+    }
+}

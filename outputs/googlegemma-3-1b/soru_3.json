@@ -1,0 +1,17 @@
+{
+    "question_id": 3,
+    "model": "google/gemma-3-1b",
+    "timestamp": "2026-02-03 11:58:48",
+    "question": "Türkiye'de kışın tamamen kuruyan ama yazın suyla dolup taşan gölümüz hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "Bu soru oldukça ilginç ve biraz karmaşık bir durum! Türkiye'de kışın tamamen kuruyan, yazın ise suyla dolup taşan göller genellikle **Dicle** gölüdür.\n\nDicle, Avrupa'nın en uzun gölü olup, Akdeniz'e kadar uzanan bir gölüdür. Kış aylarında büyük bir bölümü donarak tamamen kurur ve bu dönemde suyun yüzeyinde \"yüzeyler\" adı verilen, suyun yüzeye çıkmasıyla oluşan bu özel görüntüyü oluşturur. Yazın ise su seviyesi yükselerek dolup taşar.\n\nBu gölün neden böyle olduğunu açıklayan bazı bilimsel bilgiler şunlardır:\n\n*   **Kış aylarındaki kuraklık:** Dicle'de kış aylarında yoğun bir kuraklık yaşanır ve bu durum, gölenin yüzeyindeki suyun azalmasına neden olur.\n*   **Yüzeyler oluşumu:** Kış aylarında donmuş topraklar ve buzlar, suyun yüzeye çıkmasını sağlayan \"yüzeyler\" adı verilen su yatakları oluşturur.\n*   **Güneşlenme:** Güneş ışınları, su yüzeylerini ısıtır ve bu da suyun yüzeyinde bir miktar yükselme yaratır.\n\nUmarım bu açıklama yardımcı olmuştur!",
+        "duration_seconds": 12.3194,
+        "token_usage": {
+            "prompt_tokens": 42,
+            "completion_tokens": 294,
+            "total_tokens": 336
+        },
+        "model_response_id": "chatcmpl-bowps9xaij2uwpvebcbs1"
+    }
+}

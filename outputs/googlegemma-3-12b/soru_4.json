@@ -1,0 +1,17 @@
+{
+    "question_id": 4,
+    "model": "google/gemma-3-12b",
+    "timestamp": "2026-02-03 03:20:51",
+    "question": "Ben Türkiye’de doğdum. İki yaşından beri Almanya’da yaşıyorum. Burada yaşadığım için benim ana dilim aslında Almancadır. Türkçe sadece bir kurstur, değil mi?",
+    "result": {
+        "success": true,
+        "answer": "Merhaba! Bu durum biraz karmaşık olabilir, ama açıklayabilirim:\n\nAlmanya'da iki yaşında itibaren büyümüş olman ve Almanca konuşuyor olman çok güzel. Almanca senin için ana dilin gibi hissediyor olması da gayet doğal. Ancak Türkiye'de doğmuş olmak önemli bir nokta.\n\nTürkçe sadece bir kurs değil. Türkçe, senin ilk dilin! Doğduğunda öğrendiğin ve beyninin temelinde yer alan bir dil. Almancayı ne kadar iyi öğrenmiş olursan olsun, Türkçe senin ana dilin olarak kabul edilir. \n\nBunu şöyle düşünebilirsin:\n\n*   **Ana Dil:** Doğduğun yerde konuşulan dildir. Bu durumda Türkçe senin ana dilindir.\n*   **İkinci Dil:** Daha sonra öğrendiğin ve günlük hayatında kullandığın dildir. Bu durumda Almanca senin ikinci dilin.\n\nTürkçe kursunda öğrendiklerin, o dili yeniden keşfetme ve geliştirme çaban. Belki zamanla daha akıcı konuşabilirsin, ama ana dilin her zaman Türkçe olacak.\n\nUmarım bu açıklama yardımcı olmuştur! Başka soruların varsa çekinmeden sorabilirsin.",
+        "duration_seconds": 45.9521,
+        "token_usage": {
+            "prompt_tokens": 58,
+            "completion_tokens": 250,
+            "total_tokens": 308
+        },
+        "model_response_id": "chatcmpl-ipqbatp3oskonhdoqbup2"
+    }
+}

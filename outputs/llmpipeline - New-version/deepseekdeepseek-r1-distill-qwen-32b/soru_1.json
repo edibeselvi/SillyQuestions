@@ -1,0 +1,11 @@
+{
+    "question_id": 1,
+    "model": "deepseek/deepseek-r1-distill-qwen-32b",
+    "timestamp": "2026-02-03 01:30:24",
+    "question": "Türkçede 'ğ' harfiyle başlayan en kısa kelime hangisidir?",
+    "result": {
+        "success": false,
+        "error": "Zaman aşımı (Timeout)",
+        "duration_seconds": 300.0174
+    }
+}

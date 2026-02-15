@@ -1,0 +1,17 @@
+{
+    "question_id": 10,
+    "model": "google/functiongemma-270m",
+    "timestamp": "2026-02-03 01:25:24",
+    "question": "Öğrencilerime Türkiye'deki 'Yüzen Dağlar' tarihini anlatmak istiyorum. Bu konu sence çocukların ilgisini çeker mi, yoksa çok mu detay kaçar?\"",
+    "result": {
+        "success": true,
+        "answer": "Türkiye'deki Yüzen Dağlar tarihinin önemine değinerek, çocukların ilgisini çekmek ve bilgi aktarmak amacıyla sunulmuştur. Bu konuda detay yakalamayı hedefliyorum.\n\nEğer bu konuyla ilgili olarak, Türkiye'deki Yüzen Dağlar tarihi hakkında daha fazla bilgi edineniz durumdaydım. Bizi bilgilendirme için teşekkür ederim.",
+        "duration_seconds": 0.7654,
+        "token_usage": {
+            "prompt_tokens": 63,
+            "completion_tokens": 84,
+            "total_tokens": 147
+        },
+        "model_response_id": "chatcmpl-3yakzjfhz2c510tty95zv6"
+    }
+}

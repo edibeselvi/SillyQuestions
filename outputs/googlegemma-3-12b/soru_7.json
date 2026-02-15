@@ -1,0 +1,17 @@
+{
+    "question_id": 7,
+    "model": "google/gemma-3-12b",
+    "timestamp": "2026-02-03 03:22:51",
+    "question": "Bugün arkadaşımla 'karar yaptık'. Bu kullanım uygun değil mi, sence de 'karar verdik' yerine bunu mu kullanmalıyız?",
+    "result": {
+        "success": true,
+        "answer": "Haklısınız, \"karar yaptık\" kullanımı doğru değil. Türkçe'de \"karar vermek\" fiili kullanılır. Yani demeniz gereken **\"karar verdik\"** olmalıydı.\n\n\"Karar yaptık\" ifadesi kulağa biraz garip geliyor ve dil bilgisi açısından hatalı. \n\nBu konuda hassas olduğunuz için tebrik ederim! 😊",
+        "duration_seconds": 15.2097,
+        "token_usage": {
+            "prompt_tokens": 50,
+            "completion_tokens": 80,
+            "total_tokens": 130
+        },
+        "model_response_id": "chatcmpl-luzjrdk3ofhfr58wq7awwn"
+    }
+}

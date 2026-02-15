@@ -1,0 +1,17 @@
+{
+    "question_id": 6,
+    "model": "mistralai/ministral-3-3b-reasoning",
+    "timestamp": "2026-02-03 02:46:49",
+    "question": "Ankara'dan vapura binip doğrudan İzmir'e gitmek ne kadar sürer? Bence en hızlı yol bu.",
+    "result": {
+        "success": true,
+        "answer": "Ankara'dan İzmir'e gidecek olan vapurların seyri, genel olarak 8-10 saat arasında değişebilir. Bu sefer, vapurlar için en uzun ve en yavaş yoldur. En hızlı yol, havayoluyla olacak. Izmir'den Ankara'ya uçuşlar, 1.5 saate kadar sürer.\n\nVapur seyri, her günde bir kez yapılır. Vapurların seferleri, günü ayarlanabilmekte ve siz de en uygun vakit seçebilirsiniz.\n\nHavayolu, daha hızlı ve daha komforlu bir sefer yolu olsa da, vapurlar için daha çok popüler olmaktadır, çünkü seyri daha düşük fiyata mal olur.",
+        "duration_seconds": 9.2179,
+        "token_usage": {
+            "prompt_tokens": 42,
+            "completion_tokens": 176,
+            "total_tokens": 218
+        },
+        "model_response_id": "chatcmpl-oc5irtoqqlj8uuub4wlvlv"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "question_id": 3,
+    "model": "mistralai/ministral-3-8b-reasoning",
+    "timestamp": "2026-02-03 11:55:41",
+    "question": "Türkiye'de kışın tamamen kuruyan ama yazın suyla dolup taşan gölümüz hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "Türkiye'de kış ayları boyunca tamamen kurup, yaz ayları gelip suyla dolup taşan gölün adı **Göller Bölgesi** olarak bilinen bölgede bulunan ve özellikle **Kızılırmak** nehrinin havzasında yer alan **Abant Gölü**'dür.\n\nAncak, sizce daha çok tanınan ve benzer özellikler gösteren bir göl de var: **Tuz Gölü**. Tuz Gölü, Türkiye'nin en büyük tuzlu göllerinden biri olarak bilinen göl, kış ayları boyunca büyük kısmı kururken, yaz aylarıyla birlikte yeniden su seviyesini yükseltir ve dolup taşar. Bununla birlikte, Abant Gölü de sizin anlattığınız özelliği taşıyan bir göldür.\n\n**Abant Gölü:**\n- Kış aylarında tamamen kurur.\n- Yaz aylarında yağmurlar ve karlardan gelen erime suyla dolup taşar.\n- 1960'ların başlarında, Sivas'ın yakınlarında yer alan Abant Barajı ve Hidroelektrik Santrali'nin yapılması sonucu, göl büyük bir alana yayılmış haldedir.\n\n**Tuz Gölü:**\n- Kış aylarında büyük kısmı kurur.\n- Yaz aylarında yağmurlar ve karlardan gelen erime suyla dolup taşar.\n- Türkiye'nin en büyük tuzlu göllerinden biri olmasının yanı sıra, dünyanın en büyük tuzlu gölü olarak da bilinir.\n\nSizin sorunuzu daha net bir şekilde cevaplamak için, sizce hangi gölde kışın tamamen kurup, yazın suyla dolup taşan özelliği daha belirgin? Abant Gölü veya Tuz Gölü'nden biri mi?",
+        "duration_seconds": 66.963,
+        "token_usage": {
+            "prompt_tokens": 41,
+            "completion_tokens": 414,
+            "total_tokens": 455
+        },
+        "model_response_id": "chatcmpl-988eq97xgntnb46r681dcb"
+    }
+}

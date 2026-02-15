@@ -1,0 +1,17 @@
+{
+    "question_id": 4,
+    "model": "mistralai/ministral-3-3b-reasoning",
+    "timestamp": "2026-02-03 02:46:20",
+    "question": "Ben Türkiye’de doğdum. İki yaşından beri Almanya’da yaşıyorum. Burada yaşadığım için benim ana dilim aslında Almancadır. Türkçe sadece bir kurstur, değil mi?",
+    "result": {
+        "success": true,
+        "answer": "Evet, bu doğru. Türkçeyi only a course of study in Germany, yes. Since you've been living there for two years and your primary language is German, Turkish is likely just a subject you took in school.\n\nWould you like help with any other information about your experiences or language learning in Germany?",
+        "duration_seconds": 3.466,
+        "token_usage": {
+            "prompt_tokens": 62,
+            "completion_tokens": 65,
+            "total_tokens": 127
+        },
+        "model_response_id": "chatcmpl-s8fqtan406w0t919w1eyh"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "question_id": 4,
+    "model": "mistralai/ministral-3-8b-reasoning",
+    "timestamp": "2026-02-03 02:51:30",
+    "question": "Ben Türkiye’de doğdum. İki yaşından beri Almanya’da yaşıyorum. Burada yaşadığım için benim ana dilim aslında Almancadır. Türkçe sadece bir kurstur, değil mi?",
+    "result": {
+        "success": true,
+        "answer": "Türkçenin sadece \"bir kurs\" olmaması, sadece \"iki yaşından beri\" Almanca konuşmanız ve Türkçe'yi \"sadece\" bir kurs olarak değerlendirmenizle ilgili.\n\n### 1. **Almancanın Ana Dili Olması**\n   - Evet, Almanca sizin ana dilinizdir ve bu uzun süreli deneyim (iki yaşından beri) sizin dil sisteminizi şekillendirmiştir.\n   - Bir \"ana dil\" genellikle erken çocukluk döneminde edinilen, doğal bir şekilde gelişen dilin adıdır. Bu, Türkçenin sadece bir \"kurs\" olarak algılanmasının sebeplerinden biri olabilir.\n\n### 2. **Türkçe'yi Sadece Bir Kurs Olarak Değerlendirmeniz**\n   - Türkçeyi \"sadece bir kurs\" olarak nitelendirmek, sizin dil bilginizi ve deneyimlerinizi yansıtmakta:\n     - **Yeterlilik**: Eğer Türkçe'yi konuştuğunuz, okuduğunuz veya yazdığınız düzeyde kullanıyorsanız (örn. günlük hayatta, iş veya eğitimde), bu \"kurs\" deneyiminin bir yansıması olabilir.\n     - **Dil Eğitimi**: Eğer Türkçe'yi sadece okul, kurs veya derslerde öğrendiniz ve günlük hayattaki kullanımınız seviyesini aşmıyorsa, bu nedenle \"sadece kurs\" olarak görülebilir.\n     - **Zaman ve Deneyim**: İki yaşından beri Almanya'da yaşamak, Türkçenin doğal bir şekilde öğrenilmesinin zorduluğunu artırır. Bu da sizin Türkçe'yi \"kurs\" seviyesinde kalmasına neden olabilir.\n\n### 3. **Türkçenin \"Kurs\" Olmayabileceği Durumlar**\n   - Eğer Türkçe'yi aile, arkadaşlar veya toplulukla (örn. cuma namazı, Türkçe okur-yazar grupları) kullanıyorsanız, bu deneyim sizin dil düzeyinin \"kurs\" seviyesinden çıkmasını sağlayabilir.\n   - Eğer Türkçe'yi iş hayatı, eğitim veya resmi işlemlerde (örn. belgeler, sınavlar) kullanıyorsanız, bu da dil bilginizi geliştirebilir.\n\n### 4. **Dil Bilimi Perspektifi**\n   - Dil edinimi, çocukluk döneminden sonra da devam edebilir. Eğer Türkçe'yi düzenli olarak (kurs dışında) kullanıyorsanız, bu \"kurs\" deneyiminizi \"günlük dil bilginize\" dönüştürülebilir.\n   - \"Ana dil\" terimi genellikle çocukluk döneminde edinilen, doğal bir şekilde gelişen dil için kullanılır. Sizin Almanca'ınız bu kriteri karşıladığından, Türkçenin \"kurs\" seviyesinde kalmasına neden olabilir.\n\n### Sonuç\nTürkçenin sadece \"bir kurs\" olması, sizin dil deneyiminizi yansıtmaktadır. Eğer Türkçe'yi günlük hayattaki kullanımınızla zenginleştirebiliyorsanız, bu seviyenin \"kurs\" statüsünden çıkmasını sağlayabilirsiniz. Almanca'nın ana dili olması sizin dil sisteminizi şekillendirirken, Türkçe'yi sadece kurs olarak görmeniz de deneyiminizle ilgili bir gerçekliktir.\n\nEğer Türkçeye daha fazla zaman ayırırsanız, bu deneyimlerinizde önemli bir ilerleme görebileceksiniz!",
+        "duration_seconds": 101.7157,
+        "token_usage": {
+            "prompt_tokens": 62,
+            "completion_tokens": 838,
+            "total_tokens": 900
+        },
+        "model_response_id": "chatcmpl-wi0mhuoefqlexsqbya02nt"
+    }
+}

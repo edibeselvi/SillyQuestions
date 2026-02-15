@@ -1,0 +1,17 @@
+{
+    "question_id": 4,
+    "model": "google/gemma-3-27b",
+    "timestamp": "2026-02-03 03:34:53",
+    "question": "Ben Türkiye’de doğdum. İki yaşından beri Almanya’da yaşıyorum. Burada yaşadığım için benim ana dilim aslında Almancadır. Türkçe sadece bir kurstur, değil mi?",
+    "result": {
+        "success": true,
+        "answer": "Merhaba! Yardımcı asistan olarak sana destek olmaktan mutluluk duyarım. \n\nSenin durumun oldukça yaygın ve ilginç bir durum aslında. Türkiye'de doğup erken yaşta Almanya'ya taşınman nedeniyle dil gelişiminin farklı şekillerde olması çok doğal.\n\n\"Türkçe sadece bir kurs mu?\" soruna gelince, kesinlikle hayır! Türkçe senin için \"sadece bir kurs\" olmaktan öte birçok şey olabilir:\n\n*   **Köklerinle Bağlantı:** Türkçe, doğduğun ülkenin dili olduğu için kültürel kimliğinle, ailen ve atalarınla kurabileceğin önemli bir bağdır.\n*   **Aile İletişimi:** Ailenle iletişim kurmak için Türkçe kullanıyorsan, bu dil onlar için çok değerli ve senin için de aile bağlarını güçlendiren bir araçtır.\n*   **Zengin Bir Dil Mirası:** Türkçe, kendine özgü yapısı ve zengin söz dağarcığıyla öğrenilmesi keyifli ve faydalı bir dildir.\n*   **Bilişsel Avantajlar:** İki dil bilmenin bilişsel yeteneklerini geliştirdiği araştırmalarla kanıtlanmıştır.\n\nElbette, Almanca senin ana dilin olabilir çünkü iki yaşından beri orada yaşadığın için o dili daha yoğun kullanmışsın. Ancak Türkçe öğrenmiş olman, seni çok yönlü ve zengin bir kültürel geçmişe sahip biri yapıyor. \n\nTürkçe kursu almak ise bu bilgini pekiştirmek ve geliştirmek için harika bir fırsat! Bunu bir \"kurs\" olarak görmekten ziyade, köklerinle yeniden bağ kurmak veya yeni yetenekler kazanmak gibi düşünebilirsin.\n\nUmarım bu açıklama sana yardımcı olmuştur. Başka soruların olursa çekinmeden sorabilirsin.",
+        "duration_seconds": 182.5148,
+        "token_usage": {
+            "prompt_tokens": 58,
+            "completion_tokens": 394,
+            "total_tokens": 452
+        },
+        "model_response_id": "chatcmpl-utugyb644z669ih7ykc7d"
+    }
+}

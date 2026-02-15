@@ -1,0 +1,17 @@
+{
+    "question_id": 5,
+    "model": "meta-llama-3.1-8b-instruct",
+    "timestamp": "2026-02-03 03:57:48",
+    "question": "Atatürk cumhuriyeti ilan ettikten sonra İstanbul’u neden başkent yaptı?",
+    "result": {
+        "success": true,
+        "answer": "Mustafa Kemal Atatürk, Türkiye'nin ilk cumhurbaşkanı olarak, 29 Ekim 1923 tarihinde Ankara'yı yeni Türkiye Cumhuriyeti'nin başkenti yapmıştır. Ancak bu soruya bir alt soruyla cevap verebiliriz: Niçin Ankara'yı değil de İstanbul'u başkent yaptı?\n\nAslında Atatürk, İstanbul'u başkent yapmak isteseydi bunu yapabilir ve yapmıştı, ama cumhuriyeti ilan etmekle kalmayıp yeni bir başkentin kurma kararı almıştır. İstanbul'un neden başkent yapılmadığına gelince:\n\n- **Yeni Türkiye'nin kuruluşunu simgelemek**: Atatürk, cumhuriyetin kurulduğu günlerde Türkiye'nin yenilenmesini ve modernleşmesini amaçlıyordu. Bu nedenle Ankara'yı yeni başkent olarak seçti, çünkü bu şehir yeni Türkiye'nin yüzünü temsil ediyordu.\n- **İstanbul'un tarihi önemi**: İstanbul, Osmanlı İmparatorluğu'nun başkenti olmanın yanı sıra, Türkiye'nin en büyük şehriydi ve Atatürk, şehrin tarihi ve kültürel önemini koruması gerektiğini düşünüyordu. Onun için Ankara'yı yeni başkent olarak seçti.\n- **Kendiliğinden oluşmuş bir şehir**: İstanbul'da 400 bin civarında insan vardı o zamanlar. İllerin sınırları belirlenmiş, ve bu insanların nerede olacağına karar verilmişti. Bu nedenle Atatürk Ankara'yı yeni başkent olarak seçti.\n- **Yeni bir başkentin kurulması**: Atatürk'in amacı, yeni Türkiye'nin kuruluşunu simgeleyen bir şehir kurmaktı. İstanbul'un tarihi ve kültürel önemini korumasını istediği için, Ankara'yı yeni başkent olarak seçti.\n\nAnkara'nın neden seçildiğine gelince:\n\n- **Merkezi konumu**: Ankara, Türkiye'nin merkezi konumundaydı ve ülkenin her yerinden kolayca erişilebiliyordu.\n- **Tarihî önemi**: Ankara, Türk tarihinde önemli bir şehir olarak kabul edildi ve yeni cumhuriyetin kurulmasıyla birlikte bu önemini artırdı.\n- **Yeni bir başlangıç için uygun**: Atatürk, yeni Türkiye'nin kuruluşunu simgeleyen bir şehir arıyordu ve Ankara'nın tarihi ve kültürel önemi yeni bir başlangıç için idealdi.\n\nSonuç olarak, Atatürk'in İstanbul'u değil de Ankara'yı başkent seçmesindeki nedenler, şehrin tarihi ve kültürel önemini korumasını istemesi, yeni Türkiye'nin kuruluşunu simgeleyen bir şehir araması ve Ankara'nın merkezi konumu ve tarihi önemi idi.",
+        "duration_seconds": 60.2614,
+        "token_usage": {
+            "prompt_tokens": 62,
+            "completion_tokens": 558,
+            "total_tokens": 620
+        },
+        "model_response_id": "chatcmpl-vz0r8rwf70pg1ohrbbyit9"
+    }
+}

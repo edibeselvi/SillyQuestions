@@ -1,0 +1,17 @@
+{
+    "question_id": 2,
+    "model": "google/functiongemma-270m",
+    "timestamp": "2026-02-03 01:25:20",
+    "question": "Öğretmenler her şeyi bilir. Öğretmenim bugün iki iki daha beş eder dedi. O yüzden iki iki daha beştir, değil mi?",
+    "result": {
+        "success": true,
+        "answer": "Sen yardım etme isteğiyle dua ederim. Öğretmenler her şeyi bilir ve öğretmenimin seveniyle birlikte öğrenmek için harcadığını bilirim.",
+        "duration_seconds": 0.3944,
+        "token_usage": {
+            "prompt_tokens": 53,
+            "completion_tokens": 35,
+            "total_tokens": 88
+        },
+        "model_response_id": "chatcmpl-2r3eg9a0p4kmh5bzenqhp"
+    }
+}

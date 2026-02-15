@@ -1,0 +1,17 @@
+{
+    "question_id": 5,
+    "model": "google/gemma-3-12b",
+    "timestamp": "2026-02-03 03:21:51",
+    "question": "Atatürk cumhuriyeti ilan ettikten sonra İstanbul’u neden başkent yaptı?",
+    "result": {
+        "success": true,
+        "answer": "Atatürk, Türkiye Cumhuriyeti'ni ilan ettikten sonra Ankara'yı başkent yapmıştır. İstanbul ise ülkenin en önemli kültürel ve tarihi merkezi olarak kalmaya devam etmiştir. İşte bu kararın arkasındaki bazı temel nedenler:\n\n*   **Ankara'nın Stratejik Konumu:** Ankara, İstanbul'a göre daha iç kesimde yer alır ve ülkenin farklı bölgelerine daha iyi bir şekilde ulaşım imkanı sunuyordu. Bu durum, yeni kurulacak cumhuriyetin yönetim merkezi için daha uygun bir konum sağlamaktaydı.\n*   **Güvenlik Endişeleri:** İstanbul'un coğrafi konumu, özellikle Çanakkale Savaşı sonrasında ülkenin güvenliği açısından riskler oluşturmaktaydı. Ankara ise bu açıdan daha güvenli bir bölgeydi.\n*   **Milli Mücadele Dönemi:** Ankara, Milli Mücadele döneminde direnişin ve hükümetin merkeziydi. Bu nedenle başkentin Ankara olarak kalması, milli birlik ve beraberliği sembolize ediyordu.\n*   **Yeni Bir Başkent İhtiyacı:** Atatürk, yeni Türkiye'nin modern ve güçlü bir ülkeyi temsil etmesi için İstanbul'un tarihi ve geleneksel yapısından farklı, daha çağdaş bir başkente ihtiyaç duyduğunu düşünüyordu. Ankara bu beklentiye cevap veriyordu.\n\nBu nedenlerden dolayı Atatürk, 13 Ekim 1923 tarihinde başkent olarak Ankara'yı seçmiştir.",
+        "duration_seconds": 59.5189,
+        "token_usage": {
+            "prompt_tokens": 34,
+            "completion_tokens": 319,
+            "total_tokens": 353
+        },
+        "model_response_id": "chatcmpl-7jmev301nab9e7sqzmyikr"
+    }
+}

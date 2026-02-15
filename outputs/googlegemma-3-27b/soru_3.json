@@ -1,0 +1,17 @@
+{
+    "question_id": 3,
+    "model": "google/gemma-3-27b",
+    "timestamp": "2026-02-03 11:58:32",
+    "question": "Türkiye'de kışın tamamen kuruyan ama yazın suyla dolup taşan gölümüz hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "Bu tarif edilen göl, **Tuz Gölü**'dür. \n\nTuz Gölü, Türkiye'nin en büyük ikinci gölüdür ve kendine özgü bir özellik gösterir: Kış aylarında tamamen kurur, yazın ise yağışlarla suyla dolar ve hatta taşar. Bu durum, gölün tuz içeriğinin yüksek olmasından kaynaklanır.",
+        "duration_seconds": 74.7275,
+        "token_usage": {
+            "prompt_tokens": 42,
+            "completion_tokens": 78,
+            "total_tokens": 120
+        },
+        "model_response_id": "chatcmpl-aqxnarh8ol8qourydcdku"
+    }
+}

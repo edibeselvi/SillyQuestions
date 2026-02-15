@@ -1,0 +1,17 @@
+{
+    "question_id": 5,
+    "model": "google/gemma-3-1b",
+    "timestamp": "2026-02-03 03:54:50",
+    "question": "Atatürk cumhuriyeti ilan ettikten sonra İstanbul’u neden başkent yaptı?",
+    "result": {
+        "success": true,
+        "answer": "Atatürk'ün Türkiye Cumhuriyeti ilaninden sonra İstanbul'un başkent yapmasının birkaç önemli nedeni var:\n\n*   **Siyasi ve Sosyal Bağlam:** Atatürk, Türkiye'yi birleştirmek ve ulusal birliğini sağlamak amacıyla büyük bir çaba gösterdi. Bu süreçte, İstanbul, siyasi ve sosyal olarak önemli bir merkezdi. Başkent olması, ülkenin merkezi otoritesini güçlendirmek ve yönetim organlarını burada yerleştirmek anlamına geliyordu.\n*   **Kültürel ve Tarihi Önemi:** İstanbul, binlerce yıllık bir tarihe sahip; Bizans İmparatorluğu'nun kalıntıları, Osmanlı İmparatorluğu'nun en büyük şehirlerinden biri olması ve birçok önemli kültürel ve tarihi mirası barındırması nedeniyle, Türkiye'nin kültürel ve tarihi zenginliğini temsil ediyordu.\n*   **İmparatorluk Yapısı:** Atatürk, Türkiye Cumhuriyeti'ni kurarken, bir imparatorluk yapısını oluşturmayı amaçlıyordu. İstanbul, bu yeni yapıya uygun bir merkez olarak kabul edildi ve başkent ilan edildi.\n*   **Ekonomik ve İşlevsel Faktörler:** İstanbul, önemli bir ticaret merkeziydi ve ekonomik açıdan da büyük bir rol oynuyordu. Bu nedenle, başkent olarak belirlenmesi, ülkenin ekonomik kalkınmasına katkı sağlayacak bir karar olarak görülüyordu.\n\nAncak, bu kararın siyasi ve ideolojik bağlamda da önemli bir önemi vardı. Atatürk'ün liderliğinde Türkiye Cumhuriyeti'nin kurulması ve ulusal kimlik oluşturma sürecinde, İstanbul'un başkent yapılması, ülkenin geleceği için stratejik bir adım olarak kabul edildi.",
+        "duration_seconds": 9.5508,
+        "token_usage": {
+            "prompt_tokens": 34,
+            "completion_tokens": 363,
+            "total_tokens": 397
+        },
+        "model_response_id": "chatcmpl-em15yqdqcnhdpmjv3mfw2o"
+    }
+}

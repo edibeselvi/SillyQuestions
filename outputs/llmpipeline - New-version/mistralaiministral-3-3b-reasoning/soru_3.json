@@ -1,0 +1,17 @@
+{
+    "question_id": 3,
+    "model": "mistralai/ministral-3-3b-reasoning",
+    "timestamp": "2026-02-03 11:54:34",
+    "question": "Türkiye'de kışın tamamen kuruyan ama yazın suyla dolup taşan gölümüz hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "Türkiye'de kış aylarında tamamen kuruyan, yaz aylarında ise suyla dolup taşan göllerden biri **Van Gölü**dir. Van Gölü, Türkiye'nin kuzeybatısında yer alan bir göldür ve her yıl kışın kururken, yazda isabirce dolu durur. Bu sualtı ve serbest havayla dolaşım imkânları because, gölün turizm Potansiyelini de artırmaktadır.",
+        "duration_seconds": 22.1446,
+        "token_usage": {
+            "prompt_tokens": 41,
+            "completion_tokens": 114,
+            "total_tokens": 155
+        },
+        "model_response_id": "chatcmpl-bhe3kq6mw8dx96ma44dex"
+    }
+}

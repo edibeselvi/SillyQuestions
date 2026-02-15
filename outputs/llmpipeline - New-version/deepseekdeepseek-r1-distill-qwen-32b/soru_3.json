@@ -1,0 +1,11 @@
+{
+    "question_id": 3,
+    "model": "deepseek/deepseek-r1-distill-qwen-32b",
+    "timestamp": "2026-02-03 11:51:34",
+    "question": "Türkiye'de kışın tamamen kuruyan ama yazın suyla dolup taşan gölümüz hangisidir?",
+    "result": {
+        "success": false,
+        "error": "Zaman aşımı (Timeout)",
+        "duration_seconds": 300.0153
+    }
+}

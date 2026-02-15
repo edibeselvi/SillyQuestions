@@ -1,0 +1,17 @@
+{
+    "question_id": 1,
+    "model": "google/gemma-3-4b",
+    "timestamp": "2026-02-03 00:53:16",
+    "question": "Türkçede 'ğ' harfiyle başlayan en kısa kelime hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "Türkçedeki 'ğ' harfiyle başlayan ve en kısa kelime **göz** kelimesidir. \n\nGöz kelimesi, sadece iki harften oluşur ve 'ğ' harfini içerir. Diğer 'ğ' ile başlayan kelimeler daha uzundur.",
+        "duration_seconds": 24.0119,
+        "token_usage": {
+            "prompt_tokens": 35,
+            "completion_tokens": 62,
+            "total_tokens": 97
+        },
+        "model_response_id": "chatcmpl-jzvvonbivn3z13vvt3ajy"
+    }
+}

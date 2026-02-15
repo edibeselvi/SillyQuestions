@@ -1,0 +1,17 @@
+{
+    "question_id": 3,
+    "model": "meta-llama-3.1-8b-instruct",
+    "timestamp": "2026-02-03 11:59:28",
+    "question": "Türkiye'de kışın tamamen kuruyan ama yazın suyla dolup taşan gölümüz hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "Bu sorunun cevabı, Türkiye'nin çeşitli bölgelerinde bulunan birçok göl olabilir. Ancak en famous olanı Van Gölüdür.\n\nVan Gölü, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alan bir göldür. Kış mevsiminde donarak tamamen kuruyan ve yaz aylarında su seviyesinin yükselmesi nedeniyle sularla dolup taşan bir özelliktedir. Bu durum gölün ekosistemi ve etrafındaki doğası için önemli etkiler yapar.\n\nVan Gölü, Türkiye'nin en büyük ikinci gölüdür ve 3 bin 575 kilometrekare alana sahiptir. Gölün derinliği 451 metreye kadar uzanır ve 1927 yılında UNESCO Dünya Miras Listesi'ne ekilmiştir.\n\nGölün su seviyesi mevsimlere göre değişir. Kış aylarında, donarak kuruyan gölün suyu yaz aylarında yükselmeye başlar. Bu durum, etrafındaki tarım alanlarını sulamaya yardımcı olur ve aynı zamanda su kaynakları için önemli bir role sahiptir.\n\nVan Gölü'ndeki bu özellikler, Türkiye'nin en fazla değişime uğrayan göllerinden biri olmasına neden olmuştur.",
+        "duration_seconds": 34.3878,
+        "token_usage": {
+            "prompt_tokens": 67,
+            "completion_tokens": 265,
+            "total_tokens": 332
+        },
+        "model_response_id": "chatcmpl-jmped1qxrfq00o8uiap38sg"
+    }
+}

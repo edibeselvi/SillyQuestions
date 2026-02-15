@@ -1,0 +1,11 @@
+{
+    "question_id": 5,
+    "model": "deepseek/deepseek-r1-distill-qwen-32b",
+    "timestamp": "2026-02-03 01:44:18",
+    "question": "Atatürk cumhuriyeti ilan ettikten sonra İstanbul’u neden başkent yaptı?",
+    "result": {
+        "success": false,
+        "error": "Zaman aşımı (Timeout)",
+        "duration_seconds": 300.016
+    }
+}

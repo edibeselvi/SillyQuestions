@@ -1,0 +1,17 @@
+{
+    "question_id": 5,
+    "model": "mistralai/ministral-3-14b-reasoning",
+    "timestamp": "2026-02-03 03:08:49",
+    "question": "Atatürk cumhuriyeti ilan ettikten sonra İstanbul’u neden başkent yaptı?",
+    "result": {
+        "success": true,
+        "answer": "Atatürk, **29 Ekim 1923'te** Türkiye Cumhuriyeti'ni ilan ettiğinde, başkenti **Ankara** olarak belirledi. Bunun plusieurs nedeni vardı:\n\n1. **Stratejik Konum**:\n   - Ankara, Osmanlı döneminde de önemli bir merkez olsa da, İstanbul'un yerleşim yoğunluğu ve uluslararası bağları nedeniyle başkentlik adaylığını kaybetmişti.\n   - Ankara, iç bölgelerde daha merkezi bir konuma sahipti ve Türkiye'nin içlerindeki gelişmeleri daha kolay takip edilebiliyordu.\n\n2. **Osmanlı Mirasından Arındırma**:\n   - İstanbul, Osmanlı İmparatorluğu'nun başkenti olarak 1453'ten beri Türk egemenliğindeydi.\n   - Atatürk, Cumhuriyet'i modern ve Batıyla uyumlu bir devlete dönüştürmek istediği için, Osmanlı'nın simgesel başkentini terk ederek yeni bir başlangıç yapmak istemişti.\n\n3. **Nüfus ve source Kontrolü**:\n   - İstanbul, o dönemde 1 milyondan fazla nüfusa sahip bir metropoldu ve kontrol edilmesi zordu.\n   - Ankara ise daha küçük, yönetilebilir ve geliştirilebilir bir kentti.\n\n4. **İstiklal Savaşı'nın Merkezi**:\n   - Ankara, Türk Kurtuluş Savaşı'nın (1919-1923) merkezi olarak hizmet vermişti.\n   - Savaş sonrasındaki yeni devletin de buradan yönetilmesi daha mantıklı görüldü.\n\n5. **Avrupa ile Bağlantının Kırılması**:\n   - İstanbul, tarihsel ve kültürel açıdan Avrupa'ya yönelik bir kapıydı.\n   - Cumhuriyet, Türk toplumunu Batıya açarken, aynı zamanda Osmanlı'nın geriye dönük bağlarını kesmek istedi.\n\n### **Sonuç**:\nAtatürk, Ankara'yı başkent seçerek, Türkiye'nin yeni ve modern bir devlet olarak doğmasını sağladı. 1927'de **İstanbul'un adı \"Anadolu Hisarı\" ile anılmasına** kadar bu karara uymaya devam edildi.\n\nBu karar, Cumhuriyet'in **millî, laik ve Batıya yönelik modernleşme** vizyonunu yansıtıyordu.",
+        "duration_seconds": 104.5411,
+        "token_usage": {
+            "prompt_tokens": 30,
+            "completion_tokens": 499,
+            "total_tokens": 529
+        },
+        "model_response_id": "chatcmpl-rihyujc18jfyu4lks3h7wd"
+    }
+}

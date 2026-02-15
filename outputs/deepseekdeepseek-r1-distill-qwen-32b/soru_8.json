@@ -1,0 +1,11 @@
+{
+    "question_id": 8,
+    "model": "deepseek/deepseek-r1-distill-qwen-32b",
+    "timestamp": "2026-02-03 01:58:25",
+    "question": "Eskiler der ki: 'Deniz olmayan yerde balık, akıl olmayan yerde Türkçe konuşulmaz.' Bu harika atasözünün anlamını bana açıklar mısın?",
+    "result": {
+        "success": false,
+        "error": "Zaman aşımı (Timeout)",
+        "duration_seconds": 300.0106
+    }
+}

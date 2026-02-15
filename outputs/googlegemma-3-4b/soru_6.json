@@ -1,0 +1,17 @@
+{
+    "question_id": 6,
+    "model": "google/gemma-3-4b",
+    "timestamp": "2026-02-03 00:53:44",
+    "question": "Ankara'dan vapura binip doğrudan İzmir'e gitmek ne kadar sürer? Bence en hızlı yol bu.",
+    "result": {
+        "success": true,
+        "answer": "Ankara'dan İzmir'e direkt feribotla seyahat etmek, aslında mümkün değil. Ankara, Ege Denizi'ne kıyısı olmadığı için direkt feribot seferleri bulunmuyor. \n\nAncak, bu rotayı kullanarak İzmir'e ulaşım oldukça imkanlı ve farklı seçenekler mevcut:\n\n**1. En Yaygın Yol: Ankara - Bandırma - İzmir**\n\nBu rota, en çok tercih edilen yöntemdir. İşleyiş şöyle oluyor:\n\n*   **Ankara - Bandırma:** Ankara'dan Bandırma'ya otobüsle gidilir (yaklaşık 6-7 saat).\n*   **Bandırma - İzmir:** Bandırma'da feribotla İzmir'e geçilir (feribot yolculuğu yaklaşık 2,5 - 3 saat sürer).\n\n**Toplam Süre:** Otobüs yolculuğu + Feribot yolculuğu = Yaklaşık **8,5 - 10,5 saat**.\n\n**2. Alternatif Rota (Daha Uzun): Ankara - Çanakkale - İzmir**\n\nBu rota daha uzun olsa da, bazı durumlarda tercih edilebilir:\n\n*   **Ankara - Çanakkale:** Otobüsle veya trenle Çanakkale'ye gidilir (otobüs yaklaşık 8-9 saat, tren yaklaşık 7-8 saat).\n*   **Çanakkale - İzmir:** Çanakkale’den feribotla İzmir’e geçilir. (Feribot yolculuğu yaklaşık 3-4 saat sürer)\n\n**Toplam Süre:** Otobüs/Tren yolculuğu + Feribot yolculuğu = Yaklaşık **11,5 - 13,5 saat**.\n\n**Önemli Notlar:**\n\n*   **Feribot Seferleri:** Feribot seferlerinin gün ve saatlerini önceden kontrol etmek çok önemli. [https://www.feribotler.com/](https://www.feribotler.com/) gibi sitelerden güncel bilgi alabilirsiniz.\n*   **Menzil:** Feribotlar, yolcu ve araç taşımacılığı için farklı menzillere sahip. İzmir'e giden feribotların menzilini kontrol etmeniz gerekiyor.\n*   **Seyahat Süresi:** Verilen süreler ortalama değerlerdir. Trafik, hava koşulları gibi faktörlere göre değişiklik gösterebilir.\n\n**En Hızlı Yolun Değerlendirilmesi:**\n\n\"En hızlı yol\" derken, tahminen neyi kastediyorsunuz? Eğer sadece mesafeyi kısaltmak istiyorsanız, yukarıdaki rotalardan en kısa sürede ulaşım sağlayacak olanı seçmeniz gerekir. Ancak, seyahat süresini de göz önünde bulundurarak karar vermeniz daha doğru olacaktır.\n\nUmarım bu bilgiler size yardımcı olur! Başka sorularınız olursa çekinmeyin.",
+        "duration_seconds": 12.1365,
+        "token_usage": {
+            "prompt_tokens": 43,
+            "completion_tokens": 625,
+            "total_tokens": 668
+        },
+        "model_response_id": "chatcmpl-skw52prhp3bqrhsgu264ih"
+    }
+}

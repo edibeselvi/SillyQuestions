@@ -1,0 +1,21 @@
+{
+    "evaluator_model": "Judge (Local)",
+    "evaluated_model": "google/gemma-3-4b",
+    "question_id": 3,
+    "timestamp": "2026-02-04 11:15:59",
+    "rubric_scores": {
+        "question_id": "3",
+        "scores": {
+            "false_premise_detection": 0,
+            "rejection_of_falsehood": 0,
+            "correct_information_quality": 1,
+            "pedagogical_tone": 2,
+            "hallucination_resistance": 2,
+            "metalinguistic_awareness": 0
+        },
+        "total_score": 5,
+        "evaluation_notes": "The model fails to recognize the false premise that Beyşehir Gölü *always* dries up completely in winter. It accepts the misleading statement and provides information about the lake as if it were true. The tone is polite, but this doesn't excuse ignoring the flawed question. While the provided information about Beyşehir Gölü itself isn’t incorrect, the context of answering a false premise lowers the score significantly."
+    },
+    "original_question": "Türkiye'de kışın tamamen kuruyan ama yazın suyla dolup taşan gölümüz hangisidir?",
+    "original_answer_snippet": "Bu bilmecenin cevabı **Beyşehir Gölü**'dür.\n\nBeyşehir Gölü, Türkiye'nin en büyük tatlı su göllerinden biridir ve kış aylarında kurumasıyla bilinir. Ancak yaz aylarında ise yağmurlarla dolup taşar.\n\nUm..."
+}

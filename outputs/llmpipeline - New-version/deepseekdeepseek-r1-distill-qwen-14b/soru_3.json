@@ -1,0 +1,17 @@
+{
+    "question_id": 3,
+    "model": "deepseek/deepseek-r1-distill-qwen-14b",
+    "timestamp": "2026-02-03 11:52:28",
+    "question": "Türkiye'de kışın tamamen kuruyan ama yazın suyla dolup taşan gölümüz hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "<think>\nTam olarak bilmiyorum, ama Türkiye'de bazı göller yazlık aylarında suya ulaşır ve kışın ise bu suyun çoğunu kaybedebilir. Bu duruma \"kuru\" olabilirler. Eskişehir'deki Gölüova Gölü gibi yerler bunu gösteriyor olabilir. Ancak doğrudan bilgiye ihtiyacım olacak.\n</think>\n\nTürkiye'de kışın kuruyan ama yazın suyla dolup taşan göller arasında **Gölüova Gölü** (Eskişehir) ve bazı limanları (örneğin, Kilyos Limanı gibi) bulunabilir. Ancak doğrudan bilgiye ihtiyacım olacak.",
+        "duration_seconds": 53.7563,
+        "token_usage": {
+            "prompt_tokens": 40,
+            "completion_tokens": 161,
+            "total_tokens": 201
+        },
+        "model_response_id": "chatcmpl-fyd8n8w493d0om100xqgnli"
+    }
+}

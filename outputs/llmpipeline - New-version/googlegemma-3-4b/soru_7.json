@@ -1,0 +1,17 @@
+{
+    "question_id": 7,
+    "model": "google/gemma-3-4b",
+    "timestamp": "2026-02-03 00:53:48",
+    "question": "Bugün arkadaşımla 'karar yaptık'. Bu kullanım uygun değil mi, sence de 'karar verdik' yerine bunu mu kullanmalıyız?",
+    "result": {
+        "success": true,
+        "answer": "Haklısın, \"karar yaptık\" ifadesi günlük konuşmada yaygın olsa da, dilbilgisi açısından ve daha resmi bir dilde \"karar verdik\" ifadesi daha uygun. \n\n\"Karar vermek\" fiili, bir şey üzerinde düşünülüp, seçimin yapılması eylemini ifade ederken, \"karar yapmak\" ifadesi genellikle bir şeyi yapmaya karar verme sürecini anlatır ve bu da biraz daha dolaylı bir ifadedir.\n\nBu nedenle, arkadaşınla birlikte bir konuda anlaştığını belirtmek için kesinlikle \"karar verdik\" demen daha doğru ve doğal olacaktır. \n\nÖrneğin:\n\n*   \"Bugün filmi izleme konusunda karar verdik.\"\n*   \"Yarınki toplantı için karar verdik.\"\n\nUmarım bu açıklama yardımcı olmuştur!",
+        "duration_seconds": 3.6335,
+        "token_usage": {
+            "prompt_tokens": 50,
+            "completion_tokens": 179,
+            "total_tokens": 229
+        },
+        "model_response_id": "chatcmpl-tglofvs4ssms2vfjxex2s"
+    }
+}

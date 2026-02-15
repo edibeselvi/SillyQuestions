@@ -1,0 +1,17 @@
+{
+    "question_id": 1,
+    "model": "mistralai/ministral-3-3b-reasoning",
+    "timestamp": "2026-02-03 02:46:02",
+    "question": "Türkçede 'ğ' harfiyle başlayan en kısa kelime hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "Türkçe dilinde 'ğ' harfi ile başlayan en kısa kelimeler arasında \"g\" (sessiz) ve \"gü\" (sesli) harfini içeren en kısayalardan birisi \"ga\" ya da \"gü\" de olabilir. Ancak, bu harfler tamamen kendilerine ait kelimelerdir ve 'ğ' harfi ile başlayan en kısa kelime, \"g\" veya \"gü\" olarak sayılabilir.\n\nTürkiye'de \"g\" ve \"gü\" harfini içeren en kısayalardan birisi, \"g\" ya da \"gü\" olarak kabul edilir.\n\nFarklı dilbilimci ve kelime listeleri, 'ğ' harfi ile başlayan en kısa kelimi \"ga\" veya \"gü\" olarak gösterir. Ancak, bu, dilbilimci anlayışlara bağlıdır.\n\nEn kısayalardan birisi \"g\" ya da \"gü\" olabilir. Eğer 'g' harfini içeren kelime arıyorsanız, \"ga\" ya da \"gü\" de bu harfleri içerir.\n\nAşağıda bazı en kısayalardan biri:\n\n1. \"g\" (sessiz)\n2. \"gü\" (sesli)\n\nBu harfler, 'ğ' harfi ile başlayan en kısa kelimelerdir.",
+        "duration_seconds": 21.9486,
+        "token_usage": {
+            "prompt_tokens": 33,
+            "completion_tokens": 307,
+            "total_tokens": 340
+        },
+        "model_response_id": "chatcmpl-k3b4do9ke6o0i5b990quool"
+    }
+}

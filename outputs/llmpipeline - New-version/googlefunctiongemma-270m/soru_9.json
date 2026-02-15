@@ -1,0 +1,17 @@
+{
+    "question_id": 9,
+    "model": "google/functiongemma-270m",
+    "timestamp": "2026-02-03 01:25:24",
+    "question": "Türk alfabesindeki 30. harf olan 'X' harfinin sesli mi yoksa sessiz mi olduğunu çocuklara nasıl anlatmalıyım?",
+    "result": {
+        "success": true,
+        "answer": "Sen çocuğa zarar vermemek için, Türkçe alfabesinin 30 harfiyle sesli olmasını sağlayacak şekilde ders çalışmak istiyorum. Bu nedenle, çocuklara doğru bir açıklama yapmak ve farklı sesler kullanarak ipuçları vermek için kullanacağım.\n\n**Sesler:**\n\n1.  **Sence:** \"X\" harfiyle sesli olmaya çalış.\"\n2.  **Sen:** \"Çocuklara zarar vermemek için, Türkçe alfabesinin 30 harfiyle sesli olmasını sağlayacak şekilde ders çalışmak istiyorum.\"",
+        "duration_seconds": 1.0158,
+        "token_usage": {
+            "prompt_tokens": 56,
+            "completion_tokens": 117,
+            "total_tokens": 173
+        },
+        "model_response_id": "chatcmpl-yp1uyyuekf4fcbl3oud1y"
+    }
+}

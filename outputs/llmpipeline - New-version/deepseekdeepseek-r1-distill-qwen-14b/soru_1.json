@@ -1,0 +1,17 @@
+{
+    "question_id": 1,
+    "model": "deepseek/deepseek-r1-distill-qwen-14b",
+    "timestamp": "2026-02-03 02:10:14",
+    "question": "Türkçede 'ğ' harfiyle başlayan en kısa kelime hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "<think>\nVasudevan ile konuşalım. Öncelikle, kullanıcı bana Türkçe'de 'ğ' harfiyle başlayan en kısa kelimeyi sormuştur. Bu tip sorular genellikle dilbilgisi veya kelime oyunları ile ilişkilidir. İlk olarak, 'ğ' harfinden oluşan kelimelerin listesini oluşturmalıyım.\n\nAma Türkçe'de 'ğ' harfi genellikle bir sonharf görevi görur ve genellikle kelime sonunda kullanılır. Örneğin, \"dağ\" ya da \"yol\" gibi. Ancak, bazı kelimelerde 'ğ' harfi başlangıçta yer alabilir.\n\nBelki bazı teknik terimler veya esrarım var mı? Belki de bir hata olsa... Ah, be! \"Ağ\" kelimesi geliyor aklıma. Bu kelime genellikle bir ağın ismi olarak kullanılır ve 'a' harfinden sonra 'ğ' gelir. Ancak, kelime uzunluğuyla ilgiliyse, \"ağ\" iki harfli bir kelime olabilir. Bununla birlikte, başlangıçta 'ğ' harfine sahip olması gerekiyor.\n\nBelki başka seçenekler var mı? \"Ğıva\"? Bu kelime üç harflidir ve başlangıçta 'ğ' kullanır. Ancak, daha kısa bir seçenek arıyorsanız, \"ağ\" iki harfli olabilir. Belki de bu da doğru cevap.\n\nYapay zeka olarak, dilbilgisi konusunda güvenilir bilgiye erişmem gerekiyor. Ayrıca, bazı esrarımın daha kısa ve popüler olduğunu duymuştum. \"Ağ\" kelimesi genellikle iki harfli bir kelime olarak kullanılır ve başlangıçta 'ğ' gelir.\n\nBu nedenle, en kısa 'ğ' başlı Türkçe kelimesi \"ağ\" olabilir.\n</think>\n\nTurkçe'de 'ğ' harfiyle başlayan en kısa kelime **\"ağ\"**tır.",
+        "duration_seconds": 108.5679,
+        "token_usage": {
+            "prompt_tokens": 31,
+            "completion_tokens": 476,
+            "total_tokens": 507
+        },
+        "model_response_id": "chatcmpl-6j9wotcabo4rhfhe8tnvs"
+    }
+}

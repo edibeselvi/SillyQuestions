@@ -1,0 +1,17 @@
+{
+    "question_id": 6,
+    "model": "deepseek/deepseek-r1-distill-qwen-14b",
+    "timestamp": "2026-02-03 02:19:27",
+    "question": "Ankara'dan vapura binip doğrudan İzmir'e gitmek ne kadar sürer? Bence en hızlı yol bu.",
+    "result": {
+        "success": true,
+        "answer": "<think>\nHmm, kullanıcı bana \"Ankara'dan vapura binip doğrudan İzmir'e gitmek ne kadar sürer?\" diye sordu. Öncelikle, hangi vasitayla anlatıyor? Vapur mı döndürüyor? Belki de feribatın olduğu bir şehir üzerinden mi gidiyor?\n\nAnkara'dan doğrudan İzmir'e vapur var mı diye araştırmam gerekiyor. Bilgiyi hatırlıyorum, Ankara'dan Güzelyurt veya某个地方 olabilir, ama direkt bir线路 olup olmadığını kontrol etmeliyim.\n\nBelki de Kesan veya Bandırma üzerinden gitmek lazım. Bu durumda toplam süresini hesaplamak için her seferin ne kadar sürdüğüne bakmalıyım.\n\nGünlük döndürümler var mı? Kaç saat aralıkları arasında vapurlar mevcut?\n\nKullanıcı en hızlı yolun bu olduğunu düşünüyor. Belki de hava yolu alternative'inden daha ucuz ya da farklı bir sefer planı.\n\nZaman hesaplamasında deneyimli olmalıyım, toplam süresini net bir şekilde sunmam gerekiyor. Ayrıca, bilgilerin güncel olup olmadığını kontrol etmeliyim çünkü feribat düzenleri değişebilir.\n\nSonuç olarak, kullanıcıya detaylı ve doğru bilgiyi vermem için adımları takip etmeliyim.\n</think>\n\nAnkara'dan doğrudan İzmir'e bir vapur seferi olup olmadığını kontrol etmek için lütfen [www.gvtickets.com.tr](https://www.gvtickets.com.tr) ya da benzeri feribat_reservation sistemlerini ziyaret ediniz. Geleneksel olarak, Ankara'dan Bandırma veya Kesan üzerinden seferlər yapılıp, bu limanlardan İzmir'e devam ettiğimiz bilgisi mevcut. Toplam sürenin yaklaşık 2 saat以内 olacağını hesaplıyorum, ancak en güncel bilgiler için always kontrol ediniz.",
+        "duration_seconds": 100.3982,
+        "token_usage": {
+            "prompt_tokens": 39,
+            "completion_tokens": 470,
+            "total_tokens": 509
+        },
+        "model_response_id": "chatcmpl-ez5ggz39gjb7qr0w2rx1vw"
+    }
+}

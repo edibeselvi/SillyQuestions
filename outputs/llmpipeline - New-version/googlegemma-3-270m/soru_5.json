@@ -1,0 +1,17 @@
+{
+    "question_id": 5,
+    "model": "google/gemma-3-270m",
+    "timestamp": "2026-02-03 03:54:07",
+    "question": "Atatürk cumhuriyeti ilan ettikten sonra İstanbul’u neden başkent yaptı?",
+    "result": {
+        "success": true,
+        "answer": "İstanbul'un başkent olarak kabul edilmesi, birçok farklı görüşü vardır ve bu konuda kesin bir yanıt vermek mümkün değildir. Ancak genel olarak, İstanbul'un başkent olması, özellikle de Türkiye Cumhurbaşkanlığı ilkelerini ve uluslararası tektekleriyle ilişkilidir.\n\nİşte bazı faktörler göz önüne alındığında, İstanbul'un başkent olarak kabul edilmesi için birkaç farklı perspektif olabilir:\n\n*   **Politik Kısıtlamalar:** Geçmişte, siyasi düzenlemelerin uygulanması zorlukları nedeniyle İstanbul'u başkent olarak kabul etmek, daha fazla baskı ve engeller yaratabilir.\n*   **İklimsel Etki:** Özellikle yakınlarda sıcak ve soğuk hava koşulları, özellikle de doğaüstü tepiklerindeki etkileri göz önüne alındığında, İstanbul'un bir başkent olarak kabul edilmesi, doğal kaynakların ve diğer faktörlerin sınırlı olması nedeniyle mümkün değildir.\n*   **Siyasi ve Sosyal Durum:** İstanbul'nun siyasi ve sosyal yaşamında, özellikle de genç yaşlarda, bazı insanlar bu durumun dışına çıkma fırsatı bulabilir veya itibarını kazanmak için daha fazla baskı altında kalabilir.\n\nBu nedenle, İstanbul'un başkent olarak kabul edilmesi, bir dizi faktörden kaynaklanmaktadır.",
+        "duration_seconds": 3.8968,
+        "token_usage": {
+            "prompt_tokens": 34,
+            "completion_tokens": 271,
+            "total_tokens": 305
+        },
+        "model_response_id": "chatcmpl-utfcjkg3ewgrd4tvco29j"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "question_id": 7,
+    "model": "meta-llama-3.1-8b-instruct",
+    "timestamp": "2026-02-03 03:58:27",
+    "question": "Bugün arkadaşımla 'karar yaptık'. Bu kullanım uygun değil mi, sence de 'karar verdik' yerine bunu mu kullanmalıyız?",
+    "result": {
+        "success": true,
+        "answer": "\"Karar verdik\" veya \"karara vardık\" gibi ifadeler daha ortak ve doğru kullanımdır. \"Karar yaptık\" veya \"yaptık\" ifadesi çoğu zaman anlam kargaşasına neden olabilir.\n\nÖrneğin, \"Karar yaptık\" cümlesinde \"yapmak\" kelimesinin iki farklı anlama gelebileceği riski vardır:\n\n1. Karşılaştıkları sorun için bir çözüm bulmuş olurlar.\n2. Bir şeyin yapımını veya uygulamasını tamamlayarak karara varmışlardır.\n\nBu nedenle, daha net ve anlaşılır bir ifade olmak için \"Karar verdik\" veya \"Karar yaptık\" yerine \"Karar verdik\" kullanılması daha uygun olacaktır.",
+        "duration_seconds": 17.4381,
+        "token_usage": {
+            "prompt_tokens": 78,
+            "completion_tokens": 161,
+            "total_tokens": 239
+        },
+        "model_response_id": "chatcmpl-iuch2fg5lbnwis8zvp8lmr"
+    }
+}

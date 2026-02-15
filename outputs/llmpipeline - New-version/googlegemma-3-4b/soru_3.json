@@ -1,0 +1,17 @@
+{
+    "question_id": 3,
+    "model": "google/gemma-3-4b",
+    "timestamp": "2026-02-03 11:41:31",
+    "question": "Türkiye'de kışın tamamen kuruyan ama yazın suyla dolup taşan gölümüz hangisidir?",
+    "result": {
+        "success": true,
+        "answer": "Bu bilmecenin cevabı **Beyşehir Gölü**'dür.\n\nBeyşehir Gölü, Türkiye'nin en büyük tatlı su göllerinden biridir ve kış aylarında kurumasıyla bilinir. Ancak yaz aylarında ise yağmurlarla dolup taşar.\n\nUmarım bu cevap doğru olur!",
+        "duration_seconds": 32.7057,
+        "token_usage": {
+            "prompt_tokens": 42,
+            "completion_tokens": 69,
+            "total_tokens": 111
+        },
+        "model_response_id": "chatcmpl-2qinnufe053y3zea5ustfe"
+    }
+}
